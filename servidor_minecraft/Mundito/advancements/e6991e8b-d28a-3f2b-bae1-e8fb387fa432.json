@@ -1,19 +1,19 @@
 {
-  "biomesoplenty:biomesoplenty/root": {
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
-      "marsh": "2024-12-14 17:03:21 +0000"
+      "has_mutton": "2024-12-14 17:10:08 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/magic_boat": {
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
-      "in_water": "2024-12-14 17:03:58 +0000"
+      "has_porkchop": "2024-12-14 17:07:59 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/redwood_boat": {
+  "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
-      "in_water": "2024-12-14 17:03:58 +0000"
+      "has_white_wool": "2024-12-14 17:10:08 +0000"
     },
     "done": true
   },
@@ -23,39 +23,21 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/mahogany_boat": {
+  "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
-      "in_water": "2024-12-14 17:03:58 +0000"
+      "has_white_wool": "2024-12-14 17:10:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
-      "in_water": "2024-12-14 17:03:58 +0000"
+      "has_white_wool": "2024-12-14 17:10:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
+  "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
-      "in_water": "2024-12-14 17:03:58 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/root": {
-    "criteria": {
-      "auto": "2024-12-14 17:03:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2024-12-14 17:03:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2024-12-14 17:03:58 +0000"
+      "has_white_wool": "2024-12-14 17:10:08 +0000"
     },
     "done": true
   },
@@ -77,33 +59,28 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/cherry_boat": {
+  "minecraft:recipes/decorations/white_bed": {
     "criteria": {
-      "in_water": "2024-12-14 17:03:58 +0000"
+      "has_white_wool": "2024-12-14 17:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-14 17:10:08 +0000"
     },
     "done": true
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2024-12-14 17:07:38 +0000",
       "marsh": "2024-12-14 17:03:21 +0000"
     },
     "done": false
   },
-  "biomesoplenty:recipes/transportation/dead_boat": {
-    "criteria": {
-      "in_water": "2024-12-14 17:03:58 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/christmas": {
     "criteria": {
       "coded_trigger": "2024-12-14 17:03:21 +0000"
-    },
-    "done": true
-  },
-  "zombiekit:zombie_kit": {
-    "criteria": {
-      "zombie_kit": "2024-12-14 17:03:21 +0000"
     },
     "done": true
   },
@@ -113,9 +90,76 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/fir_boat": {
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-14 17:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:windswept_hills": "2024-12-14 17:07:39 +0000",
+      "minecraft:windswept_forest": "2024-12-14 17:08:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-14 17:10:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2024-12-14 17:03:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-14 17:10:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2024-12-14 17:03:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-12-14 17:03:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-12-14 17:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-14 17:03:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-14 17:10:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2024-12-14 17:03:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-14 17:07:57 +0000"
     },
     "done": true
   },
@@ -131,7 +175,127 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-14 17:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-14 17:03:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-14 17:10:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2024-12-14 17:03:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-14 17:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-12-14 17:10:08 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2024-12-14 17:03:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-12-14 17:10:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "marsh": "2024-12-14 17:03:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2024-12-14 17:03:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-14 17:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-14 17:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-12-14 17:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-14 17:03:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-14 17:10:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-12-14 17:03:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-14 17:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-14 17:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-14 17:07:59 +0000"
+    },
+    "done": true
+  },
+  "zombiekit:zombie_kit": {
+    "criteria": {
+      "zombie_kit": "2024-12-14 17:03:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2024-12-14 17:03:58 +0000"
     },
