@@ -1,79 +1,78 @@
-[14Dec2024 22:55:26.477] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914]
-[14Dec2024 22:55:26.481] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 21.0.4 by Microsoft
-[14Dec2024 22:55:26.597] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/batata/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
-[14Dec2024 22:55:26.906] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/batata/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.21/fmlcore-1.18.2-40.2.21.jar is missing mods.toml file
-[14Dec2024 22:55:26.908] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/batata/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.21/javafmllanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[14Dec2024 22:55:26.910] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/batata/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.21/lowcodelanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[14Dec2024 22:55:26.913] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/batata/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.21/mclanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[14Dec2024 22:55:27.227] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
-[14Dec2024 22:55:29.209] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[14Dec2024 22:55:29.347] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[14Dec2024 22:55:29.443] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
-[14Dec2024 22:55:30.271] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[14Dec2024 22:55:33.653] [main/WARN] [mixin/]: Mixin sona.mixins.json:ItemStackMixin has multiple constructors, (Ljava/lang/Class;)V was selected
+[14Dec2024 22:59:58.859] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914]
+[14Dec2024 22:59:58.862] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 21.0.4 by Microsoft
+[14Dec2024 22:59:59.008] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/batata/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
+[14Dec2024 22:59:59.356] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/batata/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.21/fmlcore-1.18.2-40.2.21.jar is missing mods.toml file
+[14Dec2024 22:59:59.359] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/batata/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.21/javafmllanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[14Dec2024 22:59:59.362] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/batata/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.21/lowcodelanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[14Dec2024 22:59:59.366] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/batata/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.21/mclanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[14Dec2024 22:59:59.684] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[14Dec2024 23:00:01.587] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[14Dec2024 23:00:01.682] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[14Dec2024 23:00:01.763] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[14Dec2024 23:00:02.545] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[14Dec2024 23:00:05.956] [main/WARN] [mixin/]: Mixin sona.mixins.json:ItemStackMixin has multiple constructors, (Ljava/lang/Class;)V was selected
 
-[14Dec2024 22:55:40.248] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
-[14Dec2024 22:55:40.594] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
-[14Dec2024 22:55:40.594] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.21 Initialized
-[14Dec2024 22:56:08.703] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `hanging_roots`, expected `immersive_weathering`. This could be a intended override, but in most cases indicates a broken mod.
-[14Dec2024 22:56:09.225] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-[14Dec2024 22:56:09.230] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-[14Dec2024 22:56:09.281] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `poison`, expected `firstaid`. This could be a intended override, but in most cases indicates a broken mod.
-[14Dec2024 22:56:09.281] [main/INFO] [firstaid/]: Don't worry, the minecraft poison override IS intended.
-[14Dec2024 22:56:09.386] [main/INFO] [corgitaco.enhancedcelestials.EnhancedCelestials/]: Enhanced Celestials registered: minecraft:sound_event
-[14Dec2024 22:56:10.318] [modloading-worker-0/INFO] [lostcities/]: Creating standard profiles into 'config/lostcities/profiles'
-[14Dec2024 22:56:10.363] [modloading-worker-0/INFO] [lostcities/]: Reading existing profiles from 'config/lostcities/profiles'
-[14Dec2024 22:56:10.444] [modloading-worker-0/INFO] [firstaid/]: firstaid starting...
-[14Dec2024 22:56:10.478] [modloading-worker-0/INFO] [corgitaco.enhancedcelestials.EnhancedCelestials/]: Initialized enhancedcelestials network!
-[14Dec2024 22:56:10.875] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[14Dec2024 22:56:11.752] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.9.8 Target: null
-[14Dec2024 22:56:11.753] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[14Dec2024 22:56:11.999] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
-[14Dec2024 22:56:12.001] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[14Dec2024 22:56:12.046] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 7.1.49 Target: null
-[14Dec2024 22:56:12.047] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[14Dec2024 22:56:12.529] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.4.3 Target: 0.4.3
-[14Dec2024 22:56:12.529] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[14Dec2024 22:56:12.633] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.21 Target: 40.2.26
-[14Dec2024 22:56:12.634] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Starting version check at https://github.com/DynamicTreesTeam/DynamicTreesVersionInfo/blob/master/DynamicTrees.json?raw=true
-[14Dec2024 22:56:12.731] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Found status: AHEAD Current: 1.18.2-1.0.4 Target: null
-[14Dec2024 22:56:17.303] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[14Dec2024 22:56:17.304] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[14Dec2024 22:56:17.304] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_common to index 1 for type OVERWORLD
-[14Dec2024 22:56:17.305] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 2 for type OVERWORLD
-[14Dec2024 22:56:17.305] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[14Dec2024 22:56:17.306] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[14Dec2024 22:56:17.322] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:aiming for minecraft:player
-[14Dec2024 22:56:17.331] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:shooting for minecraft:player
-[14Dec2024 22:56:17.332] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:reloading for minecraft:player
-[14Dec2024 22:56:17.356] [main/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: NetworkDirection channel jeg:play already registered.
-[14Dec2024 22:56:17.440] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
-[14Dec2024 22:56:17.446] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
-[14Dec2024 22:56:17.447] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
-[14Dec2024 22:56:17.447] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
-[14Dec2024 22:56:17.449] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
-[14Dec2024 22:56:17.450] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
-[14Dec2024 22:56:17.450] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
-[14Dec2024 22:56:17.450] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:bolt_cool_down for minecraft:living_entity
-[14Dec2024 22:56:17.609] [main/INFO] [journeymap/]: Initializing Packet Registries
-[14Dec2024 22:56:17.726] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[14Dec2024 22:56:17.727] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[14Dec2024 22:56:17.728] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[14Dec2024 22:56:17.728] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[14Dec2024 22:56:17.730] [main/INFO] [firstaid/]: Initializing PlayerRevive Compatibility...
-[14Dec2024 22:56:23.815] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14Dec2024 22:56:23.880] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/batata/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2372!/assets/.mcassetsroot' uses unexpected schema
-[14Dec2024 22:56:23.886] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/batata/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2372!/data/.mcassetsroot' uses unexpected schema
-[14Dec2024 22:56:23.913] [main/INFO] [net.minecraft.server.MinecraftServer/]: Found new data pack Immersive Weathering Generated Pack, loading it automatically
-[14Dec2024 22:56:23.966] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Generated runtime SERVER_DATA for pack Immersive Weathering Generated Pack in: 24 ms
-[14Dec2024 22:56:28.607] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14Dec2024 22:56:28.609] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14Dec2024 22:56:28.613] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14Dec2024 22:56:28.615] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14Dec2024 22:56:28.616] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14Dec2024 22:56:28.630] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [tb, access, pos] and [tb, access, target] with inputs: [0 0 0]
-[14Dec2024 22:56:28.631] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [tb, unpack, pos] and [tb, unpack, target] with inputs: [0 0 0]
-[14Dec2024 22:56:33.858] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe immersive_weathering:dynamictrees/birch_leaf_pile
+[14Dec2024 23:00:12.968] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[14Dec2024 23:00:13.359] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
+[14Dec2024 23:00:13.359] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.21 Initialized
+[14Dec2024 23:00:38.935] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `hanging_roots`, expected `immersive_weathering`. This could be a intended override, but in most cases indicates a broken mod.
+[14Dec2024 23:00:39.496] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[14Dec2024 23:00:39.502] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[14Dec2024 23:00:39.588] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `poison`, expected `firstaid`. This could be a intended override, but in most cases indicates a broken mod.
+[14Dec2024 23:00:39.593] [main/INFO] [firstaid/]: Don't worry, the minecraft poison override IS intended.
+[14Dec2024 23:00:39.730] [main/INFO] [corgitaco.enhancedcelestials.EnhancedCelestials/]: Enhanced Celestials registered: minecraft:sound_event
+[14Dec2024 23:00:40.526] [modloading-worker-0/INFO] [lostcities/]: Creating standard profiles into 'config/lostcities/profiles'
+[14Dec2024 23:00:40.606] [modloading-worker-0/INFO] [lostcities/]: Reading existing profiles from 'config/lostcities/profiles'
+[14Dec2024 23:00:40.706] [modloading-worker-0/INFO] [firstaid/]: firstaid starting...
+[14Dec2024 23:00:40.749] [modloading-worker-0/INFO] [corgitaco.enhancedcelestials.EnhancedCelestials/]: Initialized enhancedcelestials network!
+[14Dec2024 23:00:41.097] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[14Dec2024 23:00:41.765] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.9.8 Target: null
+[14Dec2024 23:00:41.766] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[14Dec2024 23:00:41.945] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
+[14Dec2024 23:00:41.947] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[14Dec2024 23:00:41.990] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 7.1.49 Target: null
+[14Dec2024 23:00:41.991] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[14Dec2024 23:00:42.482] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.4.3 Target: 0.4.3
+[14Dec2024 23:00:42.483] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[14Dec2024 23:00:42.581] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.21 Target: 40.2.26
+[14Dec2024 23:00:42.581] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Starting version check at https://github.com/DynamicTreesTeam/DynamicTreesVersionInfo/blob/master/DynamicTrees.json?raw=true
+[14Dec2024 23:00:42.735] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Found status: AHEAD Current: 1.18.2-1.0.4 Target: null
+[14Dec2024 23:00:46.664] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[14Dec2024 23:00:46.666] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[14Dec2024 23:00:46.667] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_common to index 1 for type OVERWORLD
+[14Dec2024 23:00:46.668] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 2 for type OVERWORLD
+[14Dec2024 23:00:46.669] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[14Dec2024 23:00:46.670] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[14Dec2024 23:00:46.737] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:aiming for minecraft:player
+[14Dec2024 23:00:46.738] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:shooting for minecraft:player
+[14Dec2024 23:00:46.739] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:reloading for minecraft:player
+[14Dec2024 23:00:46.804] [main/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: NetworkDirection channel jeg:play already registered.
+[14Dec2024 23:00:46.965] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[14Dec2024 23:00:46.966] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[14Dec2024 23:00:46.966] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[14Dec2024 23:00:46.967] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[14Dec2024 23:00:46.968] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[14Dec2024 23:00:46.968] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[14Dec2024 23:00:46.969] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[14Dec2024 23:00:46.969] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:bolt_cool_down for minecraft:living_entity
+[14Dec2024 23:00:47.176] [main/INFO] [journeymap/]: Initializing Packet Registries
+[14Dec2024 23:00:47.321] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[14Dec2024 23:00:47.323] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[14Dec2024 23:00:47.324] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[14Dec2024 23:00:47.325] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[14Dec2024 23:00:47.331] [main/INFO] [firstaid/]: Initializing PlayerRevive Compatibility...
+[14Dec2024 23:00:53.619] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14Dec2024 23:00:58.700] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/batata/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2372!/assets/.mcassetsroot' uses unexpected schema
+[14Dec2024 23:00:58.700] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/batata/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2372!/data/.mcassetsroot' uses unexpected schema
+[14Dec2024 23:00:58.778] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Generated runtime SERVER_DATA for pack Immersive Weathering Generated Pack in: 15 ms
+[14Dec2024 23:01:04.545] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14Dec2024 23:01:04.547] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14Dec2024 23:01:04.550] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14Dec2024 23:01:04.597] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14Dec2024 23:01:04.599] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14Dec2024 23:01:04.602] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [tb, access, pos] and [tb, access, target] with inputs: [0 0 0]
+[14Dec2024 23:01:04.604] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [tb, unpack, pos] and [tb, unpack, target] with inputs: [0 0 0]
+[14Dec2024 23:01:09.909] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe immersive_weathering:dynamictrees/birch_leaf_pile
 com.google.gson.JsonSyntaxException: Unknown item 'dynamictrees:birch_leaves'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:276) ~[server-1.18.2-20220404.173914-srg.jar%2372!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -125,7 +124,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'dynamictrees:birch_leaves'
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:33.890] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe immersive_weathering:dynamictrees/oak_undergrowth_leaf_pile
+[14Dec2024 23:01:09.913] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe immersive_weathering:dynamictrees/oak_undergrowth_leaf_pile
 com.google.gson.JsonSyntaxException: Unknown item 'dynamictrees:oak_undergrowth_leaves'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:276) ~[server-1.18.2-20220404.173914-srg.jar%2372!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -177,7 +176,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'dynamictrees:oak_undergrowth_
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:33.900] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe immersive_weathering:dynamictrees/dark_oak_leaf_pile
+[14Dec2024 23:01:09.932] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe immersive_weathering:dynamictrees/dark_oak_leaf_pile
 com.google.gson.JsonSyntaxException: Unknown item 'dynamictrees:dark_oak_leaves'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:276) ~[server-1.18.2-20220404.173914-srg.jar%2372!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -229,7 +228,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'dynamictrees:dark_oak_leaves'
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:33.916] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe immersive_weathering:dynamictrees/jungle_leaf_pile
+[14Dec2024 23:01:09.937] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe immersive_weathering:dynamictrees/jungle_leaf_pile
 com.google.gson.JsonSyntaxException: Unknown item 'dynamictrees:jungle_leaves'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:276) ~[server-1.18.2-20220404.173914-srg.jar%2372!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -281,7 +280,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'dynamictrees:jungle_leaves'
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:33.919] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe immersive_weathering:dynamictrees/flowering_azalea_leaf_pile
+[14Dec2024 23:01:09.942] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe immersive_weathering:dynamictrees/flowering_azalea_leaf_pile
 com.google.gson.JsonSyntaxException: Unknown item 'dynamictrees:flowering_azalea_leaves'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:276) ~[server-1.18.2-20220404.173914-srg.jar%2372!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -333,7 +332,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'dynamictrees:flowering_azalea
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:33.945] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe immersive_weathering:dynamictrees/azalea_leaf_pile
+[14Dec2024 23:01:09.978] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe immersive_weathering:dynamictrees/azalea_leaf_pile
 com.google.gson.JsonSyntaxException: Unknown item 'dynamictrees:azalea_leaves'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:276) ~[server-1.18.2-20220404.173914-srg.jar%2372!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -385,7 +384,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'dynamictrees:azalea_leaves'
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:33.958] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe immersive_weathering:dynamictrees/oak_leaf_pile
+[14Dec2024 23:01:09.981] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe immersive_weathering:dynamictrees/oak_leaf_pile
 com.google.gson.JsonSyntaxException: Unknown item 'dynamictrees:oak_leaves'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:276) ~[server-1.18.2-20220404.173914-srg.jar%2372!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -437,7 +436,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'dynamictrees:oak_leaves'
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:34.024] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:mixing/saltpeter
+[14Dec2024 23:01:10.041] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:mixing/saltpeter
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mixing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_199901_(RecipeManager.java:156) ~[server-1.18.2-20220404.173914-srg.jar%2372!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -480,7 +479,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:34.028] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe jeg:recycling_scar_l
+[14Dec2024 23:01:10.058] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe jeg:recycling_scar_l
 com.google.gson.JsonSyntaxException: Unknown item 'jeg:scar_l'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:276) ~[server-1.18.2-20220404.173914-srg.jar%2372!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -531,7 +530,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'jeg:scar_l'
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:34.036] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe jeg:recycling_hk_g36
+[14Dec2024 23:01:10.063] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe jeg:recycling_hk_g36
 com.google.gson.JsonSyntaxException: Unknown item 'jeg:hk_g36'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:276) ~[server-1.18.2-20220404.173914-srg.jar%2372!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -582,7 +581,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'jeg:hk_g36'
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:34.042] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe immersive_weathering:dynamictrees/spruce_leaf_pile
+[14Dec2024 23:01:10.073] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe immersive_weathering:dynamictrees/spruce_leaf_pile
 com.google.gson.JsonSyntaxException: Unknown item 'dynamictrees:spruce_leaves'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:276) ~[server-1.18.2-20220404.173914-srg.jar%2372!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -634,7 +633,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'dynamictrees:spruce_leaves'
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:34.069] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe immersive_weathering:dynamictrees/acacia_leaf_pile
+[14Dec2024 23:01:10.102] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe immersive_weathering:dynamictrees/acacia_leaf_pile
 com.google.gson.JsonSyntaxException: Unknown item 'dynamictrees:acacia_leaves'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:276) ~[server-1.18.2-20220404.173914-srg.jar%2372!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -686,7 +685,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'dynamictrees:acacia_leaves'
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:34.077] [Worker-Main-6/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe immersive_weathering:dynamictrees/jungle_undergrowth_leaf_pile
+[14Dec2024 23:01:10.109] [Worker-Main-4/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe immersive_weathering:dynamictrees/jungle_undergrowth_leaf_pile
 com.google.gson.JsonSyntaxException: Unknown item 'dynamictrees:jungle_undergrowth_leaves'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:276) ~[server-1.18.2-20220404.173914-srg.jar%2372!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -738,8 +737,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'dynamictrees:jungle_undergrow
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:34.099] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
-[14Dec2024 22:56:34.425] [Worker-Main-6/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table immersive_weathering:blocks/dynamictrees/jungle_leaf_pile
+[14Dec2024 23:01:10.120] [Worker-Main-4/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
+[14Dec2024 23:01:10.343] [Worker-Main-4/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table immersive_weathering:blocks/dynamictrees/jungle_leaf_pile
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'dynamictrees:jungle_leaves'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:130) ~[server-1.18.2-20220404.173914-srg.jar%2372!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -851,7 +850,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:34.502] [Worker-Main-6/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table immersive_weathering:blocks/dynamictrees/azalea_leaf_pile
+[14Dec2024 23:01:10.424] [Worker-Main-4/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table immersive_weathering:blocks/dynamictrees/azalea_leaf_pile
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'dynamictrees:azalea_leaves'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:130) ~[server-1.18.2-20220404.173914-srg.jar%2372!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -963,7 +962,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:34.543] [Worker-Main-6/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table immersive_weathering:blocks/dynamictrees/jungle_undergrowth_leaf_pile
+[14Dec2024 23:01:10.488] [Worker-Main-4/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table immersive_weathering:blocks/dynamictrees/jungle_undergrowth_leaf_pile
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'dynamictrees:jungle_undergrowth_leaves'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:130) ~[server-1.18.2-20220404.173914-srg.jar%2372!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1075,7 +1074,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:34.574] [Worker-Main-6/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table immersive_weathering:blocks/dynamictrees/oak_leaf_pile
+[14Dec2024 23:01:10.631] [Worker-Main-4/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table immersive_weathering:blocks/dynamictrees/oak_leaf_pile
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'dynamictrees:oak_leaves'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:130) ~[server-1.18.2-20220404.173914-srg.jar%2372!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1187,7 +1186,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:34.665] [Worker-Main-6/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table immersive_weathering:blocks/dynamictrees/dark_oak_leaf_pile
+[14Dec2024 23:01:10.715] [Worker-Main-4/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table immersive_weathering:blocks/dynamictrees/dark_oak_leaf_pile
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'dynamictrees:dark_oak_leaves'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:130) ~[server-1.18.2-20220404.173914-srg.jar%2372!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1299,7 +1298,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:34.809] [Worker-Main-6/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table immersive_weathering:blocks/dynamictrees/flowering_azalea_leaf_pile
+[14Dec2024 23:01:10.770] [Worker-Main-4/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table immersive_weathering:blocks/dynamictrees/flowering_azalea_leaf_pile
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'dynamictrees:flowering_azalea_leaves'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:130) ~[server-1.18.2-20220404.173914-srg.jar%2372!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1411,7 +1410,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:34.948] [Worker-Main-6/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table zombiekit:grant_book_on_first_join
+[14Dec2024 23:01:10.991] [Worker-Main-4/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table zombiekit:grant_book_on_first_join
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:130) ~[server-1.18.2-20220404.173914-srg.jar%2372!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1497,7 +1496,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:35.001] [Worker-Main-6/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table immersive_weathering:blocks/dynamictrees/spruce_leaf_pile
+[14Dec2024 23:01:11.017] [Worker-Main-4/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table immersive_weathering:blocks/dynamictrees/spruce_leaf_pile
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'dynamictrees:spruce_leaves'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:130) ~[server-1.18.2-20220404.173914-srg.jar%2372!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1609,7 +1608,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:35.219] [Worker-Main-6/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table immersive_weathering:blocks/dynamictrees/birch_leaf_pile
+[14Dec2024 23:01:11.115] [Worker-Main-4/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table immersive_weathering:blocks/dynamictrees/birch_leaf_pile
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'dynamictrees:birch_leaves'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:130) ~[server-1.18.2-20220404.173914-srg.jar%2372!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1721,7 +1720,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:35.581] [Worker-Main-6/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table immersive_weathering:blocks/dynamictrees/oak_undergrowth_leaf_pile
+[14Dec2024 23:01:11.427] [Worker-Main-4/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table immersive_weathering:blocks/dynamictrees/oak_undergrowth_leaf_pile
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'dynamictrees:oak_undergrowth_leaves'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:130) ~[server-1.18.2-20220404.173914-srg.jar%2372!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1833,7 +1832,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:35.668] [Worker-Main-6/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table immersive_weathering:blocks/dynamictrees/acacia_leaf_pile
+[14Dec2024 23:01:11.510] [Worker-Main-4/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table immersive_weathering:blocks/dynamictrees/acacia_leaf_pile
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'dynamictrees:acacia_leaves'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:130) ~[server-1.18.2-20220404.173914-srg.jar%2372!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1945,9 +1944,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:35.789] [Worker-Main-6/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {minecraft:entities/bat}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[14Dec2024 22:56:36.088] [Worker-Main-6/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2293 advancements
-[14Dec2024 22:56:36.111] [Worker-Main-6/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier jeg:grenade_on_creeper
+[14Dec2024 23:01:11.639] [Worker-Main-4/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {minecraft:entities/bat}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[14Dec2024 23:01:11.891] [Worker-Main-4/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2293 advancements
+[14Dec2024 23:01:11.906] [Worker-Main-4/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier jeg:grenade_on_creeper
 com.google.gson.JsonSyntaxException: Missing addition, expected to find a string
 	at net.minecraft.util.GsonHelper.m_13906_(GsonHelper.java:112) ~[server-1.18.2-20220404.173914-srg.jar%2372!/:?]
 	at ttv.migami.jeg.world.loot.GrenadeOnCreeperModifier$Serializer.read(GrenadeOnCreeperModifier.java:38) ~[JustEnoughGuns-0.4.0-1.18.2.jar%2358!/:0.4.0-1.18.2]
@@ -2012,7 +2011,7 @@ com.google.gson.JsonSyntaxException: Missing addition, expected to find a string
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:36.115] [Worker-Main-6/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier apocalypsenow:chestsvillagevillagearmorer
+[14Dec2024 23:01:11.908] [Worker-Main-4/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier apocalypsenow:chestsvillagevillagearmorer
 java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.GlobalLootModifierSerializer.read(net.minecraft.resources.ResourceLocation, com.google.gson.JsonObject, net.minecraft.world.level.storage.loot.predicates.LootItemCondition[])" because the return value of "net.minecraftforge.registries.IForgeRegistry.getValue(net.minecraft.resources.ResourceLocation)" is null
 	at net.minecraftforge.common.loot.LootModifierManager.deserializeModifier(LootModifierManager.java:119) ~[forge-1.18.2-40.2.21-universal.jar%2377!/:?]
 	at net.minecraftforge.common.loot.LootModifierManager.lambda$apply$0(LootModifierManager.java:101) ~[forge-1.18.2-40.2.21-universal.jar%2377!/:?]
@@ -2074,7 +2073,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:36.125] [Worker-Main-6/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier apocalypsenow:chestsvillagevillagetoolsmith
+[14Dec2024 23:01:11.910] [Worker-Main-4/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier apocalypsenow:chestsvillagevillagetoolsmith
 java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.GlobalLootModifierSerializer.read(net.minecraft.resources.ResourceLocation, com.google.gson.JsonObject, net.minecraft.world.level.storage.loot.predicates.LootItemCondition[])" because the return value of "net.minecraftforge.registries.IForgeRegistry.getValue(net.minecraft.resources.ResourceLocation)" is null
 	at net.minecraftforge.common.loot.LootModifierManager.deserializeModifier(LootModifierManager.java:119) ~[forge-1.18.2-40.2.21-universal.jar%2377!/:?]
 	at net.minecraftforge.common.loot.LootModifierManager.lambda$apply$0(LootModifierManager.java:101) ~[forge-1.18.2-40.2.21-universal.jar%2377!/:?]
@@ -2136,7 +2135,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:36.131] [Worker-Main-6/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier apocalypsenow:chestsvillagevillagetemple
+[14Dec2024 23:01:11.915] [Worker-Main-4/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier apocalypsenow:chestsvillagevillagetemple
 java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.GlobalLootModifierSerializer.read(net.minecraft.resources.ResourceLocation, com.google.gson.JsonObject, net.minecraft.world.level.storage.loot.predicates.LootItemCondition[])" because the return value of "net.minecraftforge.registries.IForgeRegistry.getValue(net.minecraft.resources.ResourceLocation)" is null
 	at net.minecraftforge.common.loot.LootModifierManager.deserializeModifier(LootModifierManager.java:119) ~[forge-1.18.2-40.2.21-universal.jar%2377!/:?]
 	at net.minecraftforge.common.loot.LootModifierManager.lambda$apply$0(LootModifierManager.java:101) ~[forge-1.18.2-40.2.21-universal.jar%2377!/:?]
@@ -2198,7 +2197,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:36.139] [Worker-Main-6/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier apocalypsenow:chestsvillagevillagetannery
+[14Dec2024 23:01:11.917] [Worker-Main-4/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier apocalypsenow:chestsvillagevillagetannery
 java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.GlobalLootModifierSerializer.read(net.minecraft.resources.ResourceLocation, com.google.gson.JsonObject, net.minecraft.world.level.storage.loot.predicates.LootItemCondition[])" because the return value of "net.minecraftforge.registries.IForgeRegistry.getValue(net.minecraft.resources.ResourceLocation)" is null
 	at net.minecraftforge.common.loot.LootModifierManager.deserializeModifier(LootModifierManager.java:119) ~[forge-1.18.2-40.2.21-universal.jar%2377!/:?]
 	at net.minecraftforge.common.loot.LootModifierManager.lambda$apply$0(LootModifierManager.java:101) ~[forge-1.18.2-40.2.21-universal.jar%2377!/:?]
@@ -2260,7 +2259,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:36.146] [Worker-Main-6/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier apocalypsenow:chestsvillagevillagetaigahouse
+[14Dec2024 23:01:11.919] [Worker-Main-4/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier apocalypsenow:chestsvillagevillagetaigahouse
 java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.GlobalLootModifierSerializer.read(net.minecraft.resources.ResourceLocation, com.google.gson.JsonObject, net.minecraft.world.level.storage.loot.predicates.LootItemCondition[])" because the return value of "net.minecraftforge.registries.IForgeRegistry.getValue(net.minecraft.resources.ResourceLocation)" is null
 	at net.minecraftforge.common.loot.LootModifierManager.deserializeModifier(LootModifierManager.java:119) ~[forge-1.18.2-40.2.21-universal.jar%2377!/:?]
 	at net.minecraftforge.common.loot.LootModifierManager.lambda$apply$0(LootModifierManager.java:101) ~[forge-1.18.2-40.2.21-universal.jar%2377!/:?]
@@ -2322,7 +2321,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:36.151] [Worker-Main-6/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier apocalypsenow:chestsvillagevillagesnowyhouse
+[14Dec2024 23:01:11.980] [Worker-Main-4/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier apocalypsenow:chestsvillagevillagesnowyhouse
 java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.GlobalLootModifierSerializer.read(net.minecraft.resources.ResourceLocation, com.google.gson.JsonObject, net.minecraft.world.level.storage.loot.predicates.LootItemCondition[])" because the return value of "net.minecraftforge.registries.IForgeRegistry.getValue(net.minecraft.resources.ResourceLocation)" is null
 	at net.minecraftforge.common.loot.LootModifierManager.deserializeModifier(LootModifierManager.java:119) ~[forge-1.18.2-40.2.21-universal.jar%2377!/:?]
 	at net.minecraftforge.common.loot.LootModifierManager.lambda$apply$0(LootModifierManager.java:101) ~[forge-1.18.2-40.2.21-universal.jar%2377!/:?]
@@ -2384,7 +2383,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:36.162] [Worker-Main-6/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier apocalypsenow:chestsvillagevillageshepherd
+[14Dec2024 23:01:11.982] [Worker-Main-4/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier apocalypsenow:chestsvillagevillageshepherd
 java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.GlobalLootModifierSerializer.read(net.minecraft.resources.ResourceLocation, com.google.gson.JsonObject, net.minecraft.world.level.storage.loot.predicates.LootItemCondition[])" because the return value of "net.minecraftforge.registries.IForgeRegistry.getValue(net.minecraft.resources.ResourceLocation)" is null
 	at net.minecraftforge.common.loot.LootModifierManager.deserializeModifier(LootModifierManager.java:119) ~[forge-1.18.2-40.2.21-universal.jar%2377!/:?]
 	at net.minecraftforge.common.loot.LootModifierManager.lambda$apply$0(LootModifierManager.java:101) ~[forge-1.18.2-40.2.21-universal.jar%2377!/:?]
@@ -2446,7 +2445,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:36.164] [Worker-Main-6/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier apocalypsenow:chestsvillagevillagesavannahouse
+[14Dec2024 23:01:11.983] [Worker-Main-4/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier apocalypsenow:chestsvillagevillagesavannahouse
 java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.GlobalLootModifierSerializer.read(net.minecraft.resources.ResourceLocation, com.google.gson.JsonObject, net.minecraft.world.level.storage.loot.predicates.LootItemCondition[])" because the return value of "net.minecraftforge.registries.IForgeRegistry.getValue(net.minecraft.resources.ResourceLocation)" is null
 	at net.minecraftforge.common.loot.LootModifierManager.deserializeModifier(LootModifierManager.java:119) ~[forge-1.18.2-40.2.21-universal.jar%2377!/:?]
 	at net.minecraftforge.common.loot.LootModifierManager.lambda$apply$0(LootModifierManager.java:101) ~[forge-1.18.2-40.2.21-universal.jar%2377!/:?]
@@ -2508,7 +2507,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:36.168] [Worker-Main-6/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier apocalypsenow:chestsvillagevillageplainshouse
+[14Dec2024 23:01:11.990] [Worker-Main-4/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier apocalypsenow:chestsvillagevillageplainshouse
 java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.GlobalLootModifierSerializer.read(net.minecraft.resources.ResourceLocation, com.google.gson.JsonObject, net.minecraft.world.level.storage.loot.predicates.LootItemCondition[])" because the return value of "net.minecraftforge.registries.IForgeRegistry.getValue(net.minecraft.resources.ResourceLocation)" is null
 	at net.minecraftforge.common.loot.LootModifierManager.deserializeModifier(LootModifierManager.java:119) ~[forge-1.18.2-40.2.21-universal.jar%2377!/:?]
 	at net.minecraftforge.common.loot.LootModifierManager.lambda$apply$0(LootModifierManager.java:101) ~[forge-1.18.2-40.2.21-universal.jar%2377!/:?]
@@ -2570,7 +2569,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:36.171] [Worker-Main-6/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier apocalypsenow:chestsvillagevillagemason
+[14Dec2024 23:01:11.992] [Worker-Main-4/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier apocalypsenow:chestsvillagevillagemason
 java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.GlobalLootModifierSerializer.read(net.minecraft.resources.ResourceLocation, com.google.gson.JsonObject, net.minecraft.world.level.storage.loot.predicates.LootItemCondition[])" because the return value of "net.minecraftforge.registries.IForgeRegistry.getValue(net.minecraft.resources.ResourceLocation)" is null
 	at net.minecraftforge.common.loot.LootModifierManager.deserializeModifier(LootModifierManager.java:119) ~[forge-1.18.2-40.2.21-universal.jar%2377!/:?]
 	at net.minecraftforge.common.loot.LootModifierManager.lambda$apply$0(LootModifierManager.java:101) ~[forge-1.18.2-40.2.21-universal.jar%2377!/:?]
@@ -2632,7 +2631,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:36.173] [Worker-Main-6/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier apocalypsenow:chestsvillagevillagefletcher
+[14Dec2024 23:01:11.993] [Worker-Main-4/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier apocalypsenow:chestsvillagevillagefletcher
 java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.GlobalLootModifierSerializer.read(net.minecraft.resources.ResourceLocation, com.google.gson.JsonObject, net.minecraft.world.level.storage.loot.predicates.LootItemCondition[])" because the return value of "net.minecraftforge.registries.IForgeRegistry.getValue(net.minecraft.resources.ResourceLocation)" is null
 	at net.minecraftforge.common.loot.LootModifierManager.deserializeModifier(LootModifierManager.java:119) ~[forge-1.18.2-40.2.21-universal.jar%2377!/:?]
 	at net.minecraftforge.common.loot.LootModifierManager.lambda$apply$0(LootModifierManager.java:101) ~[forge-1.18.2-40.2.21-universal.jar%2377!/:?]
@@ -2694,7 +2693,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:36.174] [Worker-Main-6/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier apocalypsenow:chestsvillagevillagefisher
+[14Dec2024 23:01:11.998] [Worker-Main-4/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier apocalypsenow:chestsvillagevillagefisher
 java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.GlobalLootModifierSerializer.read(net.minecraft.resources.ResourceLocation, com.google.gson.JsonObject, net.minecraft.world.level.storage.loot.predicates.LootItemCondition[])" because the return value of "net.minecraftforge.registries.IForgeRegistry.getValue(net.minecraft.resources.ResourceLocation)" is null
 	at net.minecraftforge.common.loot.LootModifierManager.deserializeModifier(LootModifierManager.java:119) ~[forge-1.18.2-40.2.21-universal.jar%2377!/:?]
 	at net.minecraftforge.common.loot.LootModifierManager.lambda$apply$0(LootModifierManager.java:101) ~[forge-1.18.2-40.2.21-universal.jar%2377!/:?]
@@ -2756,7 +2755,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:36.177] [Worker-Main-6/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier apocalypsenow:chestsvillagevillagedeserthouse
+[14Dec2024 23:01:12.002] [Worker-Main-4/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier apocalypsenow:chestsvillagevillagedeserthouse
 java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.GlobalLootModifierSerializer.read(net.minecraft.resources.ResourceLocation, com.google.gson.JsonObject, net.minecraft.world.level.storage.loot.predicates.LootItemCondition[])" because the return value of "net.minecraftforge.registries.IForgeRegistry.getValue(net.minecraft.resources.ResourceLocation)" is null
 	at net.minecraftforge.common.loot.LootModifierManager.deserializeModifier(LootModifierManager.java:119) ~[forge-1.18.2-40.2.21-universal.jar%2377!/:?]
 	at net.minecraftforge.common.loot.LootModifierManager.lambda$apply$0(LootModifierManager.java:101) ~[forge-1.18.2-40.2.21-universal.jar%2377!/:?]
@@ -2818,7 +2817,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:36.179] [Worker-Main-6/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier apocalypsenow:chestsvillagevillagecartographer
+[14Dec2024 23:01:12.006] [Worker-Main-4/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier apocalypsenow:chestsvillagevillagecartographer
 java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.GlobalLootModifierSerializer.read(net.minecraft.resources.ResourceLocation, com.google.gson.JsonObject, net.minecraft.world.level.storage.loot.predicates.LootItemCondition[])" because the return value of "net.minecraftforge.registries.IForgeRegistry.getValue(net.minecraft.resources.ResourceLocation)" is null
 	at net.minecraftforge.common.loot.LootModifierManager.deserializeModifier(LootModifierManager.java:119) ~[forge-1.18.2-40.2.21-universal.jar%2377!/:?]
 	at net.minecraftforge.common.loot.LootModifierManager.lambda$apply$0(LootModifierManager.java:101) ~[forge-1.18.2-40.2.21-universal.jar%2377!/:?]
@@ -2880,7 +2879,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:36.182] [Worker-Main-6/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier apocalypsenow:chestsvillagevillagebutcher
+[14Dec2024 23:01:12.010] [Worker-Main-4/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier apocalypsenow:chestsvillagevillagebutcher
 java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.GlobalLootModifierSerializer.read(net.minecraft.resources.ResourceLocation, com.google.gson.JsonObject, net.minecraft.world.level.storage.loot.predicates.LootItemCondition[])" because the return value of "net.minecraftforge.registries.IForgeRegistry.getValue(net.minecraft.resources.ResourceLocation)" is null
 	at net.minecraftforge.common.loot.LootModifierManager.deserializeModifier(LootModifierManager.java:119) ~[forge-1.18.2-40.2.21-universal.jar%2377!/:?]
 	at net.minecraftforge.common.loot.LootModifierManager.lambda$apply$0(LootModifierManager.java:101) ~[forge-1.18.2-40.2.21-universal.jar%2377!/:?]
@@ -2942,7 +2941,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:36.494] [Worker-Main-6/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier apocalypsenow:chestsspawnbonuschest
+[14Dec2024 23:01:12.014] [Worker-Main-4/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier apocalypsenow:chestsspawnbonuschest
 java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.GlobalLootModifierSerializer.read(net.minecraft.resources.ResourceLocation, com.google.gson.JsonObject, net.minecraft.world.level.storage.loot.predicates.LootItemCondition[])" because the return value of "net.minecraftforge.registries.IForgeRegistry.getValue(net.minecraft.resources.ResourceLocation)" is null
 	at net.minecraftforge.common.loot.LootModifierManager.deserializeModifier(LootModifierManager.java:119) ~[forge-1.18.2-40.2.21-universal.jar%2377!/:?]
 	at net.minecraftforge.common.loot.LootModifierManager.lambda$apply$0(LootModifierManager.java:101) ~[forge-1.18.2-40.2.21-universal.jar%2377!/:?]
@@ -3004,7 +3003,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:36.496] [Worker-Main-6/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier apocalypsenow:chestspillageroutpost
+[14Dec2024 23:01:12.180] [Worker-Main-4/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier apocalypsenow:chestspillageroutpost
 java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.GlobalLootModifierSerializer.read(net.minecraft.resources.ResourceLocation, com.google.gson.JsonObject, net.minecraft.world.level.storage.loot.predicates.LootItemCondition[])" because the return value of "net.minecraftforge.registries.IForgeRegistry.getValue(net.minecraft.resources.ResourceLocation)" is null
 	at net.minecraftforge.common.loot.LootModifierManager.deserializeModifier(LootModifierManager.java:119) ~[forge-1.18.2-40.2.21-universal.jar%2377!/:?]
 	at net.minecraftforge.common.loot.LootModifierManager.lambda$apply$0(LootModifierManager.java:101) ~[forge-1.18.2-40.2.21-universal.jar%2377!/:?]
@@ -3066,7 +3065,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:36.498] [Worker-Main-6/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier apocalypsenow:chestssimpledungeon
+[14Dec2024 23:01:12.181] [Worker-Main-4/ERROR] [net.minecraftforge.common.loot.LootModifierManager/]: Couldn't parse loot modifier apocalypsenow:chestssimpledungeon
 java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.GlobalLootModifierSerializer.read(net.minecraft.resources.ResourceLocation, com.google.gson.JsonObject, net.minecraft.world.level.storage.loot.predicates.LootItemCondition[])" because the return value of "net.minecraftforge.registries.IForgeRegistry.getValue(net.minecraft.resources.ResourceLocation)" is null
 	at net.minecraftforge.common.loot.LootModifierManager.deserializeModifier(LootModifierManager.java:119) ~[forge-1.18.2-40.2.21-universal.jar%2377!/:?]
 	at net.minecraftforge.common.loot.LootModifierManager.lambda$apply$0(LootModifierManager.java:101) ~[forge-1.18.2-40.2.21-universal.jar%2377!/:?]
@@ -3128,333 +3127,91 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[14Dec2024 22:56:36.761] [Worker-Main-6/INFO] [net.mehvahdjukaar.selene.Selene/]: Loaded 19 Soft Fluids
-[14Dec2024 22:56:41.694] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Loaded 71 block growths configurations
-[14Dec2024 22:56:41.704] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Loaded 12 liquid generators configurations
-[14Dec2024 22:56:41.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
-[14Dec2024 22:56:41.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[14Dec2024 22:56:41.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[14Dec2024 22:56:41.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[14Dec2024 22:56:42.212] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[14Dec2024 22:56:42.252] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[14Dec2024 22:56:42.498] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14Dec2024 22:56:42.498] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[14Dec2024 22:56:42.499] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14Dec2024 22:56:42.499] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[14Dec2024 22:56:42.546] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./Mundito/serverconfig/jei-server.toml is not correct. Correcting
-[14Dec2024 22:56:42.549] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode was corrected from null to its default, SimpleCommentedConfig:{}. 
-[14Dec2024 22:56:42.550] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode.enableCheatModeForOp was corrected from null to its default, true. 
-[14Dec2024 22:56:42.550] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode.enableCheatModeForCreative was corrected from null to its default, true. 
-[14Dec2024 22:56:42.551] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode.enableCheatModeForGive was corrected from null to its default, false. 
-[14Dec2024 22:56:42.554] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./Mundito/serverconfig/jeg-server.toml is not correct. Correcting
-[14Dec2024 22:56:42.555] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
-[14Dec2024 22:56:42.556] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.grenade was corrected from null to its default, SimpleCommentedConfig:{}. 
-[14Dec2024 22:56:42.558] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.grenade.alphaOverlay was corrected from null to its default, 255. 
-[14Dec2024 22:56:42.558] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.grenade.alphaFadeThreshold was corrected from null to its default, 40. 
-[14Dec2024 22:56:42.563] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.grenade.soundPercentage was corrected from null to its default, 0.05. 
-[14Dec2024 22:56:42.564] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.grenade.soundFadeThreshold was corrected from null to its default, 90. 
-[14Dec2024 22:56:42.564] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.grenade.ringVolume was corrected from null to its default, 1.0. 
-[14Dec2024 22:56:42.565] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.audio was corrected from null to its default, SimpleCommentedConfig:{}. 
-[14Dec2024 22:56:42.565] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.audio.gunShotMaxDistance was corrected from null to its default, 100.0. 
-[14Dec2024 22:56:42.565] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.audio.reloadMaxDistance was corrected from null to its default, 24.0. 
-[14Dec2024 22:56:42.566] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.enableCameraRecoil was corrected from null to its default, true. 
-[14Dec2024 22:56:42.566] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.cooldownThreshold was corrected from null to its default, 0. 
-[14Dec2024 22:56:42.567] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.experimental was corrected from null to its default, SimpleCommentedConfig:{}. 
-[14Dec2024 22:56:42.567] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.experimental.forceDyeableAttachments was corrected from null to its default, false. 
-[14Dec2024 22:56:42.568] [Thread-0/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/batata/servidor_minecraft/./Mundito/serverconfig/jeg-server.toml is not correct. Correcting
-[14Dec2024 22:56:42.569] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./Mundito/serverconfig/tacz-server.toml is not correct. Correcting
-[14Dec2024 22:56:42.569] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key interact_key was corrected from null to its default, SimpleCommentedConfig:{}. 
-[14Dec2024 22:56:42.571] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key interact_key.InteractKeyWhitelistBlocks was corrected from null to its default, []. 
-[14Dec2024 22:56:42.571] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key interact_key.InteractKeyWhitelistEntities was corrected from null to its default, []. 
-[14Dec2024 22:56:42.571] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key interact_key.InteractKeyBlacklistBlocks was corrected from null to its default, []. 
-[14Dec2024 22:56:42.572] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key interact_key.InteractKeyBlacklistEntities was corrected from null to its default, []. 
-[14Dec2024 22:56:42.573] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key base_multiplier was corrected from null to its default, SimpleCommentedConfig:{}. 
-[14Dec2024 22:56:42.574] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key base_multiplier.DamageBaseMultiplier was corrected from null to its default, 1.0. 
-[14Dec2024 22:56:42.576] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key base_multiplier.ArmorIgnoreBaseMultiplier was corrected from null to its default, 1.0. 
-[14Dec2024 22:56:42.581] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key base_multiplier.HeadShotBaseMultiplier was corrected from null to its default, 1.0. 
-[14Dec2024 22:56:42.582] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key base_multiplier.WeightSpeedMultiplier was corrected from null to its default, 0.015. 
-[14Dec2024 22:56:42.594] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc was corrected from null to its default, SimpleCommentedConfig:{}. 
-[14Dec2024 22:56:42.594] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc.HeadShotAABB was corrected from null to its default, []. 
-[14Dec2024 22:56:42.594] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc.AmmoBoxStackSize was corrected from null to its default, 3. 
-[14Dec2024 22:56:42.595] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc.ClientGunPackDownloadUrls was corrected from null to its default, []. 
-[14Dec2024 22:56:42.595] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc.EnableCrawl was corrected from null to its default, true. 
-[14Dec2024 22:56:42.599] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./Mundito/serverconfig/curios-server.toml is not correct. Correcting
-[14Dec2024 22:56:42.599] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key curiosSettings was corrected from null to its default, []. 
-[14Dec2024 22:56:42.618] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./Mundito/serverconfig/journeymap-server.toml is not correct. Correcting
-[14Dec2024 22:56:42.618] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key admins was corrected from null to its default, SimpleCommentedConfig:{}. 
-[14Dec2024 22:56:42.619] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key admins.opAccess was corrected from null to its default, true. 
-[14Dec2024 22:56:42.619] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key admins.serverAdmins was corrected from null to its default, [mysticdrew, 79f597fe-2877-4ecb-acdf-8c58cc1854ca]. 
-[14Dec2024 22:56:42.620] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[14Dec2024 22:56:42.620] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[14Dec2024 22:56:42.622] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./Mundito/serverconfig/securitycraft-server.toml is not correct. Correcting
-[14Dec2024 22:56:42.622] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key codebreaker_chance was corrected from null to its default, 0.33. 
-[14Dec2024 22:56:42.623] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key allowAdminTool was corrected from null to its default, true. 
-[14Dec2024 22:56:42.624] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key shouldSpawnFire was corrected from null to its default, true. 
-[14Dec2024 22:56:42.625] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ableToBreakMines was corrected from null to its default, true. 
-[14Dec2024 22:56:42.626] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key smallerMineExplosion was corrected from null to its default, false. 
-[14Dec2024 22:56:42.627] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mineExplodesWhenInCreative was corrected from null to its default, true. 
-[14Dec2024 22:56:42.628] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mineExplosionsBreakBlocks was corrected from null to its default, true. 
-[14Dec2024 22:56:42.629] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key laserBlockRange was corrected from null to its default, 5. 
-[14Dec2024 22:56:42.636] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key inventoryScannerRange was corrected from null to its default, 2. 
-[14Dec2024 22:56:42.636] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key maxAlarmRange was corrected from null to its default, 100. 
-[14Dec2024 22:56:42.637] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key allowBlockClaim was corrected from null to its default, false. 
-[14Dec2024 22:56:42.638] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key reinforced_block_tint was corrected from null to its default, true. 
-[14Dec2024 22:56:42.639] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key force_reinforced_block_tint was corrected from null to its default, false. 
-[14Dec2024 22:56:42.642] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key retinalScannerFace was corrected from null to its default, true. 
-[14Dec2024 22:56:42.643] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enable_team_ownership was corrected from null to its default, false. 
-[14Dec2024 22:56:42.645] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key team_ownership_precedence was corrected from null to its default, [FTB_TEAMS, VANILLA]. 
-[14Dec2024 22:56:42.650] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key disable_thanks_message was corrected from null to its default, false. 
-[14Dec2024 22:56:42.651] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trick_scanners_with_player_heads was corrected from null to its default, false. 
-[14Dec2024 22:56:42.652] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key prevent_reinforced_floor_glitching was corrected from null to its default, false. 
-[14Dec2024 22:56:42.657] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key taser_damage was corrected from null to its default, 1.0. 
-[14Dec2024 22:56:42.658] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key powered_taser_damage was corrected from null to its default, 2.0. 
-[14Dec2024 22:56:42.659] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key taser_effects was corrected from null to its default, [minecraft:weakness|200|2, minecraft:nausea|200|2, minecraft:slowness|200|2]. 
-[14Dec2024 22:56:42.661] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key powered_taser_effects was corrected from null to its default, [minecraft:weakness|400|5, minecraft:nausea|400|5, minecraft:slowness|400|5]. 
-[14Dec2024 22:56:42.665] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key laser_damage was corrected from null to its default, 10.0. 
-[14Dec2024 22:56:42.666] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key incorrectPasscodeDamage was corrected from null to its default, 4. 
-[14Dec2024 22:56:42.674] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key sentry_bullet_damage was corrected from null to its default, 2. 
-[14Dec2024 22:56:42.675] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key reinforced_suffocation_damage was corrected from null to its default, 5. 
-[14Dec2024 22:56:42.676] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key allow_camera_night_vision was corrected from null to its default, true. 
-[14Dec2024 22:56:42.677] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key passcode_check_cooldown was corrected from null to its default, 250. 
-[14Dec2024 22:56:42.681] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key passcode_spam_log_warning_enabled was corrected from null to its default, true. 
-[14Dec2024 22:56:42.689] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key passcode_spam_log_warning was corrected from null to its default, Player "%1$s" tried to enter a passcode into "%2$s" at position [%3$s] too quickly!. 
-[14Dec2024 22:56:42.690] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key in_world_un_reinforcing was corrected from null to its default, true. 
-[14Dec2024 22:56:42.691] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key sentry_attackable_entities_allowlist was corrected from null to its default, []. 
-[14Dec2024 22:56:42.693] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key sentry_attackable_entities_denylist was corrected from null to its default, []. 
-[14Dec2024 22:56:42.707] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./Mundito/serverconfig/lostcities-server.toml is not correct. Correcting
-[14Dec2024 22:56:42.708] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key profiles was corrected from null to its default, SimpleCommentedConfig:{}. 
-[14Dec2024 22:56:42.709] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key profiles.specialBedBlock was corrected from null to its default, minecraft:diamond_block. 
-[14Dec2024 22:56:42.709] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key profiles.selectedProfile was corrected from null to its default, <CHECK>. 
-[14Dec2024 22:56:42.710] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key profiles.selectedCustomJson was corrected from null to its default, . 
-[14Dec2024 22:56:42.710] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key profiles.todoQueueSize was corrected from null to its default, 20. 
-[14Dec2024 22:56:42.713] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./Mundito/serverconfig/firstaid-server.toml is not correct. Correcting
-[14Dec2024 22:56:42.713] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Damage System was corrected from null to its default, SimpleCommentedConfig:{}. 
-[14Dec2024 22:56:42.714] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Damage System.maxHealthHead was corrected from null to its default, 4. 
-[14Dec2024 22:56:42.715] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Damage System.maxHealthLeft_Arm was corrected from null to its default, 4. 
-[14Dec2024 22:56:42.715] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Damage System.maxHealthLeft_Leg was corrected from null to its default, 4. 
-[14Dec2024 22:56:42.716] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Damage System.maxHealthLeft_Foot was corrected from null to its default, 4. 
-[14Dec2024 22:56:42.716] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Damage System.maxHealthBody was corrected from null to its default, 6. 
-[14Dec2024 22:56:42.716] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Damage System.maxHealthRight_Arm was corrected from null to its default, 4. 
-[14Dec2024 22:56:42.716] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Damage System.maxHealthRight_Leg was corrected from null to its default, 4. 
-[14Dec2024 22:56:42.718] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Damage System.maxHealthRight_Foot was corrected from null to its default, 4. 
-[14Dec2024 22:56:42.718] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Damage System.causeDeathHead was corrected from null to its default, true. 
-[14Dec2024 22:56:42.719] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Damage System.causeDeathBody was corrected from null to its default, true. 
-[14Dec2024 22:56:42.722] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Locational Armor was corrected from null to its default, SimpleCommentedConfig:{}. 
-[14Dec2024 22:56:42.723] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Locational Armor.Armor was corrected from null to its default, SimpleCommentedConfig:{}. 
-[14Dec2024 22:56:42.723] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Locational Armor.Armor.multiplierHead was corrected from null to its default, 6.0. 
-[14Dec2024 22:56:42.724] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Locational Armor.Armor.multiplierChest was corrected from null to its default, 2.5. 
-[14Dec2024 22:56:42.725] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Locational Armor.Armor.multiplierLegs was corrected from null to its default, 3.0. 
-[14Dec2024 22:56:42.726] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Locational Armor.Armor.multiplierFeet was corrected from null to its default, 6.0. 
-[14Dec2024 22:56:42.727] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Locational Armor.Armor.offsetHead was corrected from null to its default, 1.0. 
-[14Dec2024 22:56:42.728] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Locational Armor.Armor.offsetChest was corrected from null to its default, 0.0. 
-[14Dec2024 22:56:42.728] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Locational Armor.Armor.offsetLegs was corrected from null to its default, 0.0. 
-[14Dec2024 22:56:42.730] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Locational Armor.Armor.offsetFeet was corrected from null to its default, 0.0. 
-[14Dec2024 22:56:42.731] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Locational Armor.Toughness was corrected from null to its default, SimpleCommentedConfig:{}. 
-[14Dec2024 22:56:42.731] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Locational Armor.Toughness.multiplierHead was corrected from null to its default, 4.0. 
-[14Dec2024 22:56:42.732] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Locational Armor.Toughness.multiplierChest was corrected from null to its default, 3.0. 
-[14Dec2024 22:56:42.733] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Locational Armor.Toughness.multiplierLegs was corrected from null to its default, 3.0. 
-[14Dec2024 22:56:42.734] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Locational Armor.Toughness.multiplierFeet was corrected from null to its default, 3.5. 
-[14Dec2024 22:56:42.735] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Locational Armor.Toughness.offsetHead was corrected from null to its default, 0.0. 
-[14Dec2024 22:56:42.736] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Locational Armor.Toughness.offsetChest was corrected from null to its default, 0.0. 
-[14Dec2024 22:56:42.737] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Locational Armor.Toughness.offsetLegs was corrected from null to its default, 0.0. 
-[14Dec2024 22:56:42.739] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Locational Armor.Toughness.offsetFeet was corrected from null to its default, 0.0. 
-[14Dec2024 22:56:42.743] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Internal Healing was corrected from null to its default, SimpleCommentedConfig:{}. 
-[14Dec2024 22:56:42.743] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Internal Healing.bandage was corrected from null to its default, SimpleCommentedConfig:{}. 
-[14Dec2024 22:56:42.744] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Internal Healing.bandage.totalsHeals was corrected from null to its default, 4. 
-[14Dec2024 22:56:42.745] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Internal Healing.bandage.secondsPerHeal was corrected from null to its default, 18. 
-[14Dec2024 22:56:42.753] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Internal Healing.bandage.applyTime was corrected from null to its default, 2500. 
-[14Dec2024 22:56:42.756] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Internal Healing.plaster was corrected from null to its default, SimpleCommentedConfig:{}. 
-[14Dec2024 22:56:42.757] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Internal Healing.plaster.totalsHeals was corrected from null to its default, 2. 
-[14Dec2024 22:56:42.758] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Internal Healing.plaster.secondsPerHeal was corrected from null to its default, 22. 
-[14Dec2024 22:56:42.759] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Internal Healing.plaster.applyTime was corrected from null to its default, 3000. 
-[14Dec2024 22:56:42.761] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key External Healing was corrected from null to its default, SimpleCommentedConfig:{}. 
-[14Dec2024 22:56:42.762] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key External Healing.allowNaturalRegeneration was corrected from null to its default, false. 
-[14Dec2024 22:56:42.763] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key External Healing.allowOtherHealingItems was corrected from null to its default, true. 
-[14Dec2024 22:56:42.763] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key External Healing.sleepHealPercentage was corrected from null to its default, 0.07. 
-[14Dec2024 22:56:42.764] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key External Healing.otherRegenMultiplier was corrected from null to its default, 0.75. 
-[14Dec2024 22:56:42.765] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key External Healing.naturalRegenMultiplier was corrected from null to its default, 0.5. 
-[14Dec2024 22:56:42.766] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key External Healing.resistanceReductionPercentPerLevel was corrected from null to its default, 20. 
-[14Dec2024 22:56:42.768] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc was corrected from null to its default, SimpleCommentedConfig:{}. 
-[14Dec2024 22:56:42.769] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc.scaleMaxHealth was corrected from null to its default, true. 
-[14Dec2024 22:56:42.770] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc.capMaxHealth was corrected from null to its default, true. 
-[14Dec2024 22:56:42.780] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc.vanillaHealthCalculation was corrected from null to its default, AVERAGE_ALL. 
-[14Dec2024 22:56:42.780] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc.useFriendlyRandomDistribution was corrected from null to its default, false. 
-[14Dec2024 22:56:42.781] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc.armorEnchantmentMode was corrected from null to its default, LOCAL_ENCHANTMENTS. 
-[14Dec2024 22:56:42.782] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enchantment Handling was corrected from null to its default, SimpleCommentedConfig:{}. 
-[14Dec2024 22:56:42.782] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enchantment Handling.enchantmentMultiplier was corrected from null to its default, 4. 
-[14Dec2024 22:56:42.782] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enchantment Handling.resourceLocations was corrected from null to its default, [minecraft:feather_falling]. 
-[14Dec2024 22:56:42.783] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Enchantment Handling.overrideMultiplier was corrected from null to its default, [2]. 
-[14Dec2024 22:56:42.785] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./Mundito/serverconfig/dynamictrees-server.toml is not correct. Correcting
-[14Dec2024 22:56:42.785] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key seeds was corrected from null to its default, SimpleCommentedConfig:{}. 
-[14Dec2024 22:56:42.785] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key seeds.leavesSeedDropRate was corrected from null to its default, 1.0. 
-[14Dec2024 22:56:42.786] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key seeds.voluntarySeedDropRate was corrected from null to its default, 0.01. 
-[14Dec2024 22:56:42.786] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key seeds.seedPlantRate was corrected from null to its default, 0.1666666716337204. 
-[14Dec2024 22:56:42.786] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key seeds.timeToLive was corrected from null to its default, 1200. 
-[14Dec2024 22:56:42.786] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key seeds.seedOnlyForest was corrected from null to its default, true. 
-[14Dec2024 22:56:42.787] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key seeds.seedMinForestness was corrected from null to its default, 0.0. 
-[14Dec2024 22:56:42.788] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees was corrected from null to its default, SimpleCommentedConfig:{}. 
-[14Dec2024 22:56:42.788] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees.growthMultiplier was corrected from null to its default, 0.5. 
-[14Dec2024 22:56:42.788] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees.harvestMultiplier was corrected from null to its default, 1.0. 
-[14Dec2024 22:56:42.788] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees.maxTreeHardness was corrected from null to its default, 20.0. 
-[14Dec2024 22:56:42.789] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees.growthFolding was corrected from null to its default, 2. 
-[14Dec2024 22:56:42.789] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees.dropSticks was corrected from null to its default, true. 
-[14Dec2024 22:56:42.789] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees.scaleBiomeGrowthRate was corrected from null to its default, 0.5. 
-[14Dec2024 22:56:42.790] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees.diseaseChance was corrected from null to its default, 0.0. 
-[14Dec2024 22:56:42.790] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees.maxBranchRotRadius was corrected from null to its default, 7. 
-[14Dec2024 22:56:42.790] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees.rootyBlockHardnessMultiplier was corrected from null to its default, 40.0. 
-[14Dec2024 22:56:42.790] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees.swampOaksInWater was corrected from null to its default, ROOTED. 
-[14Dec2024 22:56:42.791] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key trees.boneMealGrowthPulses was corrected from null to its default, 1. 
-[14Dec2024 22:56:42.794] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key interaction was corrected from null to its default, SimpleCommentedConfig:{}. 
-[14Dec2024 22:56:42.795] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key interaction.isLeavesPassable was corrected from null to its default, false. 
-[14Dec2024 22:56:42.795] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key interaction.vanillaLeavesCollision was corrected from null to its default, false. 
-[14Dec2024 22:56:42.795] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key interaction.enableBranchClimbling was corrected from null to its default, true. 
-[14Dec2024 22:56:42.795] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key interaction.canopyCrash was corrected from null to its default, true. 
-[14Dec2024 22:56:42.796] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key interaction.axeDamageMode was corrected from null to its default, THICKNESS. 
-[14Dec2024 22:56:42.796] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key interaction.enableFallingTrees was corrected from null to its default, true. 
-[14Dec2024 22:56:42.796] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key interaction.enableFallingTreeDamage was corrected from null to its default, true. 
-[14Dec2024 22:56:42.798] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key interaction.fallingTreeDamageMultiplier was corrected from null to its default, 1.0. 
-[14Dec2024 22:56:42.799] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key interaction.dirtBucketPlacesDirt was corrected from null to its default, true. 
-[14Dec2024 22:56:42.799] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key interaction.sloppyBreakDrops was corrected from null to its default, false. 
-[14Dec2024 22:56:42.799] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key interaction.minRadiusForStrip was corrected from null to its default, 6. 
-[14Dec2024 22:56:42.799] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key interaction.enableStripRadiusReduction was corrected from null to its default, true. 
-[14Dec2024 22:56:42.799] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key interaction.canBoneMealFruit was corrected from null to its default, false. 
-[14Dec2024 22:56:42.800] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key interaction.canBoneMealPods was corrected from null to its default, true. 
-[14Dec2024 22:56:42.800] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key interaction.dynamicSaplingDrops was corrected from null to its default, true. 
-[14Dec2024 22:56:42.802] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key world was corrected from null to its default, SimpleCommentedConfig:{}. 
-[14Dec2024 22:56:42.803] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key world.podzolGen was corrected from null to its default, true. 
-[14Dec2024 22:56:42.806] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key debug was corrected from null to its default, SimpleCommentedConfig:{}. 
-[14Dec2024 22:56:42.806] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key debug.debug was corrected from null to its default, false. 
-[14Dec2024 22:56:42.812] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./Mundito/serverconfig/forge-server.toml is not correct. Correcting
-[14Dec2024 22:56:42.813] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
-[14Dec2024 22:56:42.816] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
-[14Dec2024 22:56:42.816] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
-[14Dec2024 22:56:42.817] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
-[14Dec2024 22:56:42.817] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBaseSummonChance was corrected from null to its default, 0.1. 
-[14Dec2024 22:56:42.817] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBabyChance was corrected from null to its default, 0.05. 
-[14Dec2024 22:56:42.818] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.treatEmptyTagsAsAir was corrected from null to its default, false. 
-[14Dec2024 22:56:42.818] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.skipEmptyShapelessCheck was corrected from null to its default, true. 
-[14Dec2024 22:56:42.818] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fixAdvancementLoading was corrected from null to its default, true. 
-[14Dec2024 22:56:42.818] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
-[14Dec2024 22:56:43.070] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[14Dec2024 22:56:43.921] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[14Dec2024 22:56:43.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "Mundito"
-[14Dec2024 22:57:10.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[14Dec2024 22:57:11.873] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 22:57:11.875] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 22:57:11.882] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 22:57:11.886] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 22:57:12.183] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 22:57:12.618] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 22:57:13.131] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 22:57:13.651] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 22:57:14.139] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[14Dec2024 22:57:14.779] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[14Dec2024 22:57:15.113] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[14Dec2024 22:57:15.615] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[14Dec2024 22:57:16.131] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[14Dec2024 22:57:16.617] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[14Dec2024 22:57:17.154] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
-[14Dec2024 22:57:17.615] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
-[14Dec2024 22:57:18.111] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[14Dec2024 22:57:18.610] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
-[14Dec2024 22:57:19.117] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
-[14Dec2024 22:57:19.634] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
-[14Dec2024 22:57:20.113] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
-[14Dec2024 22:57:20.649] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 7%
-[14Dec2024 22:57:21.622] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
-[14Dec2024 22:57:21.623] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
-[14Dec2024 22:57:22.124] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
-[14Dec2024 22:57:22.614] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
-[14Dec2024 22:57:23.178] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
-[14Dec2024 22:57:27.491] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
-[14Dec2024 22:57:27.492] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
-[14Dec2024 22:57:27.521] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
-[14Dec2024 22:57:27.521] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
-[14Dec2024 22:57:27.522] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
-[14Dec2024 22:57:27.522] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
-[14Dec2024 22:57:27.523] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
-[14Dec2024 22:57:27.523] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
-[14Dec2024 22:57:27.643] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
-[14Dec2024 22:57:28.122] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
-[14Dec2024 22:57:28.644] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 13%
-[14Dec2024 22:57:29.163] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 13%
-[14Dec2024 22:57:29.612] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
-[14Dec2024 22:57:30.127] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
-[14Dec2024 22:57:30.657] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 16%
-[14Dec2024 22:57:31.117] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 16%
-[14Dec2024 22:57:31.654] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 17%
-[14Dec2024 22:57:32.147] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
-[14Dec2024 22:57:32.629] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 20%
-[14Dec2024 22:57:33.124] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 21%
-[14Dec2024 22:57:33.619] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
-[14Dec2024 22:57:34.115] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 23%
-[14Dec2024 22:57:34.615] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 24%
-[14Dec2024 22:57:35.149] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 26%
-[14Dec2024 22:57:35.612] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 27%
-[14Dec2024 22:57:36.114] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 28%
-[14Dec2024 22:57:36.610] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 30%
-[14Dec2024 22:57:37.147] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 31%
-[14Dec2024 22:57:37.613] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 32%
-[14Dec2024 22:57:38.138] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
-[14Dec2024 22:57:38.633] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 35%
-[14Dec2024 22:57:39.110] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
-[14Dec2024 22:57:39.620] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
-[14Dec2024 22:57:40.156] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 40%
-[14Dec2024 22:57:40.630] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 41%
-[14Dec2024 22:57:41.112] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 42%
-[14Dec2024 22:57:41.634] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 43%
-[14Dec2024 22:57:42.144] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 44%
-[14Dec2024 22:57:42.621] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 46%
-[14Dec2024 22:57:43.114] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 48%
-[14Dec2024 22:57:43.643] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 48%
-[14Dec2024 22:57:44.112] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 50%
-[14Dec2024 22:57:44.613] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
-[14Dec2024 22:57:45.117] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 53%
-[14Dec2024 22:57:46.114] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
-[14Dec2024 22:57:46.115] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
-[14Dec2024 22:57:46.611] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 55%
-[14Dec2024 22:57:47.113] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 55%
-[14Dec2024 22:57:47.615] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 57%
-[14Dec2024 22:57:48.115] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 58%
-[14Dec2024 22:57:48.634] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 60%
-[14Dec2024 22:57:49.128] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 62%
-[14Dec2024 22:57:49.632] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 63%
-[14Dec2024 22:57:50.151] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
-[14Dec2024 22:57:50.611] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 67%
-[14Dec2024 22:57:51.148] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
-[14Dec2024 22:57:51.622] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 69%
-[14Dec2024 22:57:52.120] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 71%
-[14Dec2024 22:57:52.616] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 73%
-[14Dec2024 22:57:53.112] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 75%
-[14Dec2024 22:57:53.617] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 77%
-[14Dec2024 22:57:54.111] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 78%
-[14Dec2024 22:57:54.612] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 80%
-[14Dec2024 22:57:55.114] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 82%
-[14Dec2024 22:57:55.610] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
-[14Dec2024 22:57:56.132] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 84%
-[14Dec2024 22:57:56.615] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 85%
-[14Dec2024 22:57:57.125] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 86%
-[14Dec2024 22:57:57.633] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 88%
-[14Dec2024 22:57:58.124] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 89%
-[14Dec2024 22:57:58.622] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 90%
-[14Dec2024 22:57:59.111] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 92%
-[14Dec2024 22:57:59.615] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 93%
-[14Dec2024 22:58:00.113] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 95%
-[14Dec2024 22:58:00.627] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 96%
-[14Dec2024 22:58:01.120] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 98%
-[14Dec2024 22:58:01.366] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 51257 ms
-[14Dec2024 22:58:01.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (78.849s)! For help, type "help"
-[14Dec2024 22:58:01.384] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[14Dec2024 22:58:50.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
-[14Dec2024 22:58:50.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[14Dec2024 22:58:50.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[14Dec2024 22:58:50.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[14Dec2024 22:58:51.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundito]'/minecraft:overworld
-[14Dec2024 22:58:52.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundito]'/lostcities:lostcity
-[14Dec2024 22:58:52.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundito]'/minecraft:the_end
-[14Dec2024 22:58:52.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundito]'/minecraft:the_nether
-[14Dec2024 22:58:52.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (Mundito): All chunks are saved
-[14Dec2024 22:58:52.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
-[14Dec2024 22:58:52.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14Dec2024 22:58:52.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14Dec2024 22:58:52.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14Dec2024 23:01:12.537] [Worker-Main-4/INFO] [net.mehvahdjukaar.selene.Selene/]: Loaded 19 Soft Fluids
+[14Dec2024 23:01:16.301] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Loaded 71 block growths configurations
+[14Dec2024 23:01:16.307] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Loaded 12 liquid generators configurations
+[14Dec2024 23:01:16.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
+[14Dec2024 23:01:16.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[14Dec2024 23:01:16.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[14Dec2024 23:01:16.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[14Dec2024 23:01:17.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[14Dec2024 23:01:17.326] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[14Dec2024 23:01:17.524] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14Dec2024 23:01:17.525] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[14Dec2024 23:01:17.526] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14Dec2024 23:01:17.526] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[14Dec2024 23:01:17.581] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[14Dec2024 23:01:17.582] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[14Dec2024 23:01:17.583] [Thread-0/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[14Dec2024 23:01:17.878] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[14Dec2024 23:01:18.842] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[14Dec2024 23:01:18.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "Mundito"
+[14Dec2024 23:01:19.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[14Dec2024 23:01:23.911] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Dec2024 23:01:23.929] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Dec2024 23:01:23.931] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Dec2024 23:01:23.940] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Dec2024 23:01:23.974] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Dec2024 23:01:23.993] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Dec2024 23:01:24.014] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Dec2024 23:01:24.041] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Dec2024 23:01:24.060] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Dec2024 23:01:24.082] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Dec2024 23:01:24.378] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Dec2024 23:01:24.875] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Dec2024 23:01:25.383] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Dec2024 23:01:25.880] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Dec2024 23:01:26.383] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Dec2024 23:01:26.893] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Dec2024 23:01:27.380] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Dec2024 23:01:27.879] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[14Dec2024 23:01:28.401] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[14Dec2024 23:01:42.214] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[14Dec2024 23:01:42.216] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[14Dec2024 23:01:42.217] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[14Dec2024 23:01:42.223] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[14Dec2024 23:01:42.224] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[14Dec2024 23:01:42.225] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[14Dec2024 23:01:42.229] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[14Dec2024 23:01:42.229] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[14Dec2024 23:01:42.230] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[14Dec2024 23:01:42.231] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[14Dec2024 23:01:42.242] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[14Dec2024 23:01:42.242] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[14Dec2024 23:01:42.243] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[14Dec2024 23:01:42.244] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[14Dec2024 23:01:42.244] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[14Dec2024 23:01:42.245] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[14Dec2024 23:01:42.246] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[14Dec2024 23:01:42.247] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[14Dec2024 23:01:42.248] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[14Dec2024 23:01:42.248] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[14Dec2024 23:01:42.249] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[14Dec2024 23:01:42.249] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[14Dec2024 23:01:42.250] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[14Dec2024 23:01:42.251] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[14Dec2024 23:01:42.252] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[14Dec2024 23:01:42.253] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[14Dec2024 23:01:42.253] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[14Dec2024 23:01:42.375] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[14Dec2024 23:01:42.875] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
+[14Dec2024 23:01:43.375] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 70%
+[14Dec2024 23:01:44.109] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[14Dec2024 23:01:45.340] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 84%
+[14Dec2024 23:01:45.341] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 84%
+[14Dec2024 23:01:45.428] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 26054 ms
+[14Dec2024 23:01:45.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (27.881s)! For help, type "help"
+[14Dec2024 23:01:45.462] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[14Dec2024 23:04:41.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[14Dec2024 23:04:41.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[14Dec2024 23:04:41.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[14Dec2024 23:04:41.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[14Dec2024 23:04:42.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundito]'/minecraft:overworld
+[14Dec2024 23:04:42.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundito]'/minecraft:the_nether
+[14Dec2024 23:04:42.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundito]'/lostcities:lostcity
+[14Dec2024 23:04:42.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundito]'/minecraft:the_end
+[14Dec2024 23:04:42.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (Mundito): All chunks are saved
+[14Dec2024 23:04:42.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14Dec2024 23:04:42.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[14Dec2024 23:04:42.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14Dec2024 23:04:42.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
