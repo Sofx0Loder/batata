@@ -5899,3 +5899,18 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [14Dec2024 17:17:24.733] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@78991cdb
 [14Dec2024 17:17:24.766] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8121ms or 162 ticks behind
 [14Dec2024 17:19:15.951] [Server thread/INFO] [tombstone/]: Syncing Config on Client
+[14Dec2024 17:22:28.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[14Dec2024 17:22:28.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[14Dec2024 17:22:28.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[14Dec2024 17:22:28.654] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EroDragonEx lost connection: Server closed
+[14Dec2024 17:22:28.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx left the game
+[14Dec2024 17:22:28.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[14Dec2024 17:22:30.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundito]'/minecraft:overworld
+[14Dec2024 17:22:30.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundito]'/minecraft:the_nether
+[14Dec2024 17:22:30.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundito]'/minecraft:the_end
+[14Dec2024 17:22:30.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mundito]'/lostcities:lostcity
+[14Dec2024 17:22:30.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (Mundito): All chunks are saved
+[14Dec2024 17:22:30.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14Dec2024 17:22:30.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14Dec2024 17:22:30.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (lostcity): All chunks are saved
+[14Dec2024 17:22:30.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
