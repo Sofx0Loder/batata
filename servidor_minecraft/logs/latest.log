@@ -3421,3 +3421,88 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [15Dec2024 17:34:21.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported iiHo_shi to EroDragonEx]
 [15Dec2024 17:34:40.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported iiHo_shi to EroDragonEx]
 [15Dec2024 17:34:55.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported iiHo_shi to EroDragonEx]
+[15Dec2024 17:35:49.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi died because of Runner
+[15Dec2024 17:35:53.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported iiHo_shi to EroDragonEx]
+[15Dec2024 17:36:07.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[15Dec2024 17:39:26.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi has made the advancement [Isn't It Iron Pick]
+[15Dec2024 17:41:42.322] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@121bae4d
+[15Dec2024 17:41:42.328] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Camilacapita[/127.233.156.68:48011] logged in with entity id 34753 at (-477.3326393002146, 54.0, -302.33361481549565)
+[15Dec2024 17:41:42.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita joined the game
+[15Dec2024 17:42:56.218] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported iiHo_shi to EroDragonEx]
+[15Dec2024 17:43:00.265] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> ola mai :3
+[15Dec2024 17:44:15.296] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported iiHo_shi to EroDragonEx]
+[15Dec2024 17:44:17.626] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi fell from a high place
+[15Dec2024 17:44:28.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi was slain by Runner
+[15Dec2024 17:44:55.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> mai viviras conmigo ;3?
+[15Dec2024 17:45:03.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> :p
+[15Dec2024 17:45:14.420] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> :p
+[15Dec2024 17:45:19.341] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> zz
+[15Dec2024 17:45:19.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> z
+[15Dec2024 17:45:19.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> zz
+[15Dec2024 17:45:19.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> z
+[15Dec2024 17:45:20.138] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> z
+[15Dec2024 17:45:20.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> z
+[15Dec2024 17:45:20.771] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> z
+[15Dec2024 17:45:22.427] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> no puedoxd
+[15Dec2024 17:45:28.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> toy en mina
+[15Dec2024 17:46:06.073] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported iiHo_shi to EroDragonEx]
+[15Dec2024 17:46:38.371] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi was slain by Runner
+[15Dec2024 17:46:59.625] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported iiHo_shi to EroDragonEx]
+[15Dec2024 17:47:10.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi died because of Runner
+[15Dec2024 17:48:35.466] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> tremenda mina
+[15Dec2024 17:48:41.545] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported EroDragonEx to Camilacapita]
+[15Dec2024 17:48:58.915] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> xq te colas
+[15Dec2024 17:50:03.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> ño
+[15Dec2024 17:51:12.369] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was shot by Skeleton
+[15Dec2024 17:51:12.372] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Camilacapita with unique ID travelersbackpack.diamond_15.12.2024-17.51.12.dat
+[15Dec2024 17:51:12.373] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -421 Y: 22.419999986886978 Z: -324
+[15Dec2024 17:51:17.873] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> uta
+[15Dec2024 17:51:24.084] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> leo
+[15Dec2024 17:51:39.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> -421 22 -324
+[15Dec2024 17:51:50.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Camilacapita to -420.500000, 22.000000, -323.500000]
+[15Dec2024 17:52:57.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was slain by Assasin Black Ops
+[15Dec2024 17:53:04.184] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> tp
+[15Dec2024 17:53:07.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> el mismo
+[15Dec2024 17:53:09.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> steel
+[15Dec2024 17:53:10.975] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Camilacapita to -420.500000, 22.000000, -323.500000]
+[15Dec2024 17:53:39.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was slain by Assasin Black Ops
+[15Dec2024 17:53:44.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> PUTA
+[15Dec2024 17:53:50.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Camilacapita to -420.500000, 22.000000, -323.500000]
+[15Dec2024 17:54:00.466] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was slain by Assasin Black Ops
+[15Dec2024 17:54:04.831] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> pero q mrd
+[15Dec2024 17:54:13.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> steel
+[15Dec2024 17:54:15.678] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Camilacapita to -420.500000, 22.000000, -323.500000]
+[15Dec2024 17:54:33.762] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was slain by Assasin Black Ops
+[15Dec2024 17:54:37.373] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> dios
+[15Dec2024 17:54:40.240] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Camilacapita to -420.500000, 22.000000, -323.500000]
+[15Dec2024 17:54:46.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> AY UN MOB Q ME MATA DE 1 GOLPE
+[15Dec2024 17:55:00.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Camilacapita to -420.500000, 22.000000, -323.500000]
+[15Dec2024 17:55:22.364] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi was slain by Runner
+[15Dec2024 17:55:35.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was shot by Skeleton
+[15Dec2024 17:56:00.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi was slain by Runner
+[15Dec2024 17:56:26.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi was slain by Runner
+[15Dec2024 17:56:51.662] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was slain by Zombie
+[15Dec2024 17:57:10.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi was slain by Runner
+[15Dec2024 17:59:16.064] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi was slain by Runner
+[15Dec2024 17:59:35.873] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iiHo_shi lost connection: Timed out
+[15Dec2024 17:59:35.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi left the game
+[15Dec2024 17:59:35.917] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Dec2024 17:59:58.568] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@78459218
+[15Dec2024 17:59:58.572] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iiHo_shi[/127.239.243.88:32987] logged in with entity id 45540 at (-779.839812221212, 68.0, -632.5688675939227)
+[15Dec2024 17:59:58.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi joined the game
+[15Dec2024 18:00:06.891] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> mai necesitas ayuda?
+[15Dec2024 18:01:59.267] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <iiHo_shi> .
+[15Dec2024 18:03:50.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was doomed to fall by Runner
+[15Dec2024 18:03:58.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> mai
+[15Dec2024 18:04:14.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> cuando consiga mis cosas te ayudo xd
+[15Dec2024 18:04:35.295] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> la tuya?
+[15Dec2024 18:04:44.784] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> no creo
+[15Dec2024 18:05:12.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> leo
+[15Dec2024 18:05:23.120] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> MIS COSAS ESTAN ATRAPADAS EN BLOQUES
+[15Dec2024 18:05:24.945] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-802, y=65, z=-645} BlockPos{x=-803, y=64, z=-645}
+[15Dec2024 18:05:31.826] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[15Dec2024 18:05:33.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was slain by Runner
+[15Dec2024 18:05:40.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported EroDragonEx to -420.500000, 22.000000, -323.500000]
+[15Dec2024 18:05:49.968] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@25f7f174[id=<null>,name=Camilacapita,properties={},legacy=false] (/127.233.156.68:35833) lost connection: Disconnected
+[15Dec2024 18:05:52.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Camilacapita to -420.500000, 22.000000, -323.500000]
+[15Dec2024 18:05:56.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Camilacapita to -420.500000, 22.000000, -323.500000]
