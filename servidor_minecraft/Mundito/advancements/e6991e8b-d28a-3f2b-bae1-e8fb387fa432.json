@@ -867,6 +867,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/diamond_smithing": {
+    "criteria": {
+      "has_diamond": "2024-12-15 05:20:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-15 03:19:06 +0000"
@@ -1482,6 +1488,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-15 03:19:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-15 05:21:51 +0000"
     },
     "done": true
   },
