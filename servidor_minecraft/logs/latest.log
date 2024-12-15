@@ -3193,3 +3193,16 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [15Dec2024 04:19:12.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ was slain by EroDragonEx
 [15Dec2024 04:19:41.071] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Flancito0_ lost connection: Disconnected
 [15Dec2024 04:19:41.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Flancito0_ left the game
+[15Dec2024 04:28:06.052] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[15Dec2024 04:28:13.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Creative Mode]
+[15Dec2024 04:28:23.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[15Dec2024 04:47:32.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx was shot by Skeleton
+[15Dec2024 04:47:32.528] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for EroDragonEx with unique ID travelersbackpack.standard_15.12.2024-04.47.32.dat
+[15Dec2024 04:47:32.529] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -784 Y: 68.0 Z: -619
+[15Dec2024 04:49:32.915] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@37120aa4
+[15Dec2024 04:49:32.930] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Camilacapita[/127.233.156.68:57233] logged in with entity id 7698 at (-801.2315187396538, 86.875, -629.2055472220608)
+[15Dec2024 04:49:32.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita joined the game
+[15Dec2024 04:51:56.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx was slain by Runner
+[15Dec2024 04:51:56.079] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for EroDragonEx with unique ID travelersbackpack.standard_15.12.2024-04.51.56.dat
+[15Dec2024 04:51:56.079] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -791 Y: 66.0 Z: -621
+[15Dec2024 04:52:20.178] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> dile a kira q mire
