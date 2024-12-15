@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2024-12-15 17:22:22 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_orange_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-15 03:19:06 +0000"
@@ -756,7 +762,8 @@
       "minecraft:creeper": "2024-12-15 01:59:18 +0000",
       "minecraft:cave_spider": "2024-12-15 02:41:15 +0000",
       "minecraft:zombie": "2024-12-14 23:23:56 +0000",
-      "minecraft:drowned": "2024-12-15 05:54:30 +0000"
+      "minecraft:drowned": "2024-12-15 05:54:30 +0000",
+      "minecraft:zombie_villager": "2024-12-15 17:07:36 +0000"
     },
     "done": false
   },
@@ -1864,6 +1871,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-15 17:17:53 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2024-12-14 23:10:16 +0000"
@@ -2057,7 +2070,8 @@
       "baked_potato": "2024-12-15 05:46:01 +0000",
       "apple": "2024-12-15 00:50:35 +0000",
       "bread": "2024-12-15 01:35:35 +0000",
-      "cookie": "2024-12-15 01:54:28 +0000"
+      "cookie": "2024-12-15 01:54:28 +0000",
+      "carrot": "2024-12-15 17:09:36 +0000"
     },
     "done": false
   },
@@ -2190,6 +2204,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-12-15 00:23:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-15 17:17:53 +0000"
     },
     "done": true
   },
@@ -2718,6 +2738,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-12-14 23:07:25 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/hay": {
+    "criteria": {
+      "has_wheat": "2024-12-15 17:17:53 +0000"
     },
     "done": true
   },
@@ -3293,6 +3319,7 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
+      "textures/entity/cat/black.png": "2024-12-15 17:09:18 +0000",
       "textures/entity/cat/red.png": "2024-12-15 16:46:45 +0000"
     },
     "done": false

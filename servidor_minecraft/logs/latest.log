@@ -3377,3 +3377,47 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [15Dec2024 17:03:33.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
 [15Dec2024 17:04:01.910] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/20731, l='ServerLevel[Mundito]', x=-700.59, y=63.00, z=-1555.47] died, message: 'Shepherd died because of Runner'
 [15Dec2024 17:04:08.911] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/20680, l='ServerLevel[Mundito]', x=-694.70, y=63.00, z=-1547.54] died, message: 'Fisherman was slain by Runner'
+[15Dec2024 17:06:27.020] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/20732, l='ServerLevel[Mundito]', x=-707.01, y=63.00, z=-1564.95] died, message: 'Armorer was slain by Ghoul'
+[15Dec2024 17:10:03.615] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/20676, l='ServerLevel[Mundito]', x=-696.78, y=63.00, z=-1549.75] died, message: 'Villager was slain by Ghoul'
+[15Dec2024 17:14:31.736] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@300edc4
+[15Dec2024 17:14:31.747] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: iiHo_shi[/127.239.243.88:49203] logged in with entity id 25137 at (-808.2748666143153, 86.5625, -628.071679652909)
+[15Dec2024 17:14:31.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi joined the game
+[15Dec2024 17:14:38.268] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[15Dec2024 17:14:55.664] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EroDragonEx> unete a la llamda
+[15Dec2024 17:15:26.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <iiHo_shi> ahvoy
+[15Dec2024 17:15:43.829] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[15Dec2024 17:16:25.861] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/25585, l='ServerLevel[Mundito]', x=-800.30, y=86.00, z=-883.70] died, message: 'Mason was slain by Zombie'
+[15Dec2024 17:16:42.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx was slain by Infected Military
+[15Dec2024 17:16:42.419] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for EroDragonEx with unique ID travelersbackpack.standard_15.12.2024-17.16.42.dat
+[15Dec2024 17:16:42.419] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -727 Y: 67.0 Z: -861
+[15Dec2024 17:16:53.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported EroDragonEx to iiHo_shi]
+[15Dec2024 17:17:35.581] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported EroDragonEx to -726.500000, 61.000000, -820.500000]
+[15Dec2024 17:17:41.671] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported EroDragonEx to -726.500000, 67.000000, -820.500000]
+[15Dec2024 17:18:08.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[15Dec2024 17:18:13.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[15Dec2024 17:20:22.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[15Dec2024 17:20:42.971] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[15Dec2024 17:21:07.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported iiHo_shi to EroDragonEx]
+[15Dec2024 17:22:40.013] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi died
+[15Dec2024 17:22:40.022] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Killed iiHo_shi]
+[15Dec2024 17:22:49.265] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported iiHo_shi to EroDragonEx]
+[15Dec2024 17:23:20.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi has made the advancement [Suit Up]
+[15Dec2024 17:23:46.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx was doomed to fall by iiHo_shi
+[15Dec2024 17:23:50.763] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[15Dec2024 17:23:54.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[15Dec2024 17:25:05.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[15Dec2024 17:25:22.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[15Dec2024 17:25:29.625] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported EroDragonEx to iiHo_shi]
+[15Dec2024 17:26:47.879] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Creative Mode]
+[15Dec2024 17:26:57.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[15Dec2024 17:29:54.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: iiHo_shi moved wrongly!
+[15Dec2024 17:30:00.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.bleeding
+[15Dec2024 17:30:14.017] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported iiHo_shi to EroDragonEx]
+[15Dec2024 17:31:41.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi was slain by Runner
+[15Dec2024 17:31:54.083] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported iiHo_shi to EroDragonEx]
+[15Dec2024 17:33:08.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi was slain by Runner
+[15Dec2024 17:33:21.720] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[15Dec2024 17:34:07.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported iiHo_shi to EroDragonEx]
+[15Dec2024 17:34:21.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported iiHo_shi to EroDragonEx]
+[15Dec2024 17:34:40.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported iiHo_shi to EroDragonEx]
+[15Dec2024 17:34:55.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported iiHo_shi to EroDragonEx]
