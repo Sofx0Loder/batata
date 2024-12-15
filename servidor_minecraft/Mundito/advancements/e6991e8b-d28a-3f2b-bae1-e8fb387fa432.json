@@ -1613,6 +1613,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2024-12-15 18:07:57 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/blank_upgrade": {
     "criteria": {
       "has_chest": "2024-12-14 23:13:17 +0000"

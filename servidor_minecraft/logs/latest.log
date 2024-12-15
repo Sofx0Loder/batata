@@ -3506,3 +3506,84 @@ java.lang.NullPointerException: Cannot invoke "net.minecraftforge.common.loot.Gl
 [15Dec2024 18:05:49.968] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@25f7f174[id=<null>,name=Camilacapita,properties={},legacy=false] (/127.233.156.68:35833) lost connection: Disconnected
 [15Dec2024 18:05:52.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Camilacapita to -420.500000, 22.000000, -323.500000]
 [15Dec2024 18:05:56.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Camilacapita to -420.500000, 22.000000, -323.500000]
+[15Dec2024 18:06:00.116] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camilacapita lost connection: Timed out
+[15Dec2024 18:06:00.116] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita left the game
+[15Dec2024 18:06:05.720] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1780d2df
+[15Dec2024 18:06:05.726] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Camilacapita[/127.233.156.68:40085] logged in with entity id 48386 at (-420.5, 22.0, -323.5)
+[15Dec2024 18:06:05.731] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita joined the game
+[15Dec2024 18:06:16.215] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Camilacapita to -477.500000, 22.000000, -333.500000]
+[15Dec2024 18:06:22.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported EroDragonEx to -477.500000, 22.000000, -333.500000]
+[15Dec2024 18:07:05.913] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camilacapita lost connection: Timed out
+[15Dec2024 18:07:05.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita left the game
+[15Dec2024 18:07:38.466] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[15Dec2024 18:07:56.330] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@54469f38
+[15Dec2024 18:07:56.337] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Camilacapita[/127.233.156.68:49835] logged in with entity id 49024 at (-477.5, 22.0, -333.5)
+[15Dec2024 18:07:56.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita joined the game
+[15Dec2024 18:08:50.374] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> tp
+[15Dec2024 18:08:53.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Camilacapita to -477.500000, 22.000000, -333.500000]
+[15Dec2024 18:09:06.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was slain by Infected Military
+[15Dec2024 18:09:12.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> ala mielda
+[15Dec2024 18:09:21.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Camilacapita to -477.500000, 22.000000, -333.500000]
+[15Dec2024 18:09:33.720] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: iiHo_shi has made the advancement [Getting an Upgrade]
+[15Dec2024 18:10:09.864] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was slain by Infected Military
+[15Dec2024 18:10:14.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> We
+[15Dec2024 18:10:21.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Camilacapita to EroDragonEx]
+[15Dec2024 18:10:31.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> onde mielda esta mi tumba si no abia nd >:c
+[15Dec2024 18:10:40.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx was slain by Cave Spider
+[15Dec2024 18:10:40.618] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for EroDragonEx with unique ID travelersbackpack.standard_15.12.2024-18.10.40.dat
+[15Dec2024 18:10:40.618] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -520 Y: 37.166109260938214 Z: -296
+[15Dec2024 18:10:45.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported EroDragonEx to Camilacapita]
+[15Dec2024 18:10:50.169] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[15Dec2024 18:10:54.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[15Dec2024 18:11:18.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported EroDragonEx to -477.500000, 22.000000, -333.500000]
+[15Dec2024 18:11:19.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Camilacapita to -477.500000, 22.000000, -333.500000]
+[15Dec2024 18:11:33.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> te dije q abian muchos
+[15Dec2024 18:11:58.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx was slain by Infected Hazmat
+[15Dec2024 18:11:58.968] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for EroDragonEx with unique ID travelersbackpack.standard_15.12.2024-18.11.58.dat
+[15Dec2024 18:11:58.968] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -474 Y: 23.0 Z: -337
+[15Dec2024 18:12:02.613] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported EroDragonEx to Camilacapita]
+[15Dec2024 18:12:25.068] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[15Dec2024 18:12:35.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> ve por arriba y abajo ;v
+[15Dec2024 18:12:42.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> no
+[15Dec2024 18:12:52.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Camilacapita to -477.500000, 22.000000, -333.500000]
+[15Dec2024 18:12:56.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported EroDragonEx to -477.500000, 22.000000, -333.500000]
+[15Dec2024 18:13:08.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> ush
+[15Dec2024 18:13:29.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Camilacapita to EroDragonEx]
+[15Dec2024 18:14:07.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> ponme en espectador y yo lo veo
+[15Dec2024 18:14:08.266] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Creative Mode]
+[15Dec2024 18:15:22.485] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> a aqui lo tengo
+[15Dec2024 18:15:31.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was shot by Skeleton
+[15Dec2024 18:15:40.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Camilacapita to EroDragonEx]
+[15Dec2024 18:16:00.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Successfully restored Camilacapita's items]
+[15Dec2024 18:16:07.278] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[15Dec2024 18:16:36.636] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> pero estan rotas
+[15Dec2024 18:16:47.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> las armas estan fuertes
+[15Dec2024 18:17:00.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> si tienes apunteria no
+[15Dec2024 18:17:01.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was slain by Infected Military
+[15Dec2024 18:17:06.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> MIELDA
+[15Dec2024 18:17:15.119] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> xd
+[15Dec2024 18:17:18.070] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Camilacapita to EroDragonEx]
+[15Dec2024 18:17:53.248] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> tp
+[15Dec2024 18:17:56.168] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Camilacapita to EroDragonEx]
+[15Dec2024 18:18:06.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> xd
+[15Dec2024 18:18:12.977] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita was slain by EroDragonEx
+[15Dec2024 18:18:15.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Camilacapita to EroDragonEx]
+[15Dec2024 18:18:22.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Camilacapita to EroDragonEx]
+[15Dec2024 18:18:27.268] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> ese no es
+[15Dec2024 18:19:56.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EroDragonEx was slain by Infected Military
+[15Dec2024 18:19:56.069] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for EroDragonEx with unique ID travelersbackpack.standard_15.12.2024-18.19.56.dat
+[15Dec2024 18:19:56.070] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -477 Y: 25.0 Z: -334
+[15Dec2024 18:20:01.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported EroDragonEx to Camilacapita]
+[15Dec2024 18:20:17.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[15Dec2024 18:20:22.034] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[15Dec2024 18:20:38.570] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Spectator Mode]
+[15Dec2024 18:21:13.189] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Set own game mode to Survival Mode]
+[15Dec2024 18:21:21.401] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> tengo lapiz
+[15Dec2024 18:21:34.868] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> 47
+[15Dec2024 18:22:42.671] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camilacapita lost connection: Timed out
+[15Dec2024 18:22:42.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita left the game
+[15Dec2024 18:23:11.234] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@55357828
+[15Dec2024 18:23:11.240] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Camilacapita[/127.233.156.68:56087] logged in with entity id 56250 at (-498.17931698689154, 44.0, -327.0049297636356)
+[15Dec2024 18:23:11.244] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita joined the game
+[15Dec2024 18:24:56.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Camilacapita lost connection: Timed out
+[15Dec2024 18:24:56.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita left the game
