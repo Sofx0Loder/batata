@@ -812,6 +812,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-15 16:38:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-12-15 00:43:32 +0000"
@@ -845,6 +851,12 @@
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2024-12-14 23:23:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-15 16:38:55 +0000"
     },
     "done": true
   },
@@ -1151,6 +1163,12 @@
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2024-12-15 00:43:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-15 16:38:55 +0000"
     },
     "done": true
   },
@@ -1655,6 +1673,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/pig": {
+    "criteria": {
+      "has_porkchop": "2024-12-15 16:38:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2024-12-15 00:40:38 +0000"
@@ -1826,6 +1850,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "beef": "2024-12-15 00:32:15 +0000",
+      "baked_potato": "2024-12-15 16:25:18 +0000",
       "apple": "2024-12-15 01:42:03 +0000",
       "bread": "2024-12-15 01:54:25 +0000",
       "rotten_flesh": "2024-12-15 00:18:06 +0000"
