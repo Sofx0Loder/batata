@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2024-12-15 05:29:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-12-14 23:07:25 +0000"
@@ -681,6 +687,12 @@
   "securitycraft:recipes/securitycraft/reinforced_magenta_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-15 03:19:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-12-15 05:29:01 +0000"
     },
     "done": true
   },
@@ -1155,6 +1167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-12-15 05:29:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_red_wool": "2024-12-14 23:13:43 +0000"
@@ -1593,6 +1611,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pickaxe": "2024-12-15 05:39:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-15 02:28:24 +0000"
@@ -2011,6 +2035,7 @@
     "criteria": {
       "sweet_berries": "2024-12-14 23:40:22 +0000",
       "cooked_beef": "2024-12-15 01:56:52 +0000",
+      "baked_potato": "2024-12-15 05:46:01 +0000",
       "apple": "2024-12-15 00:50:35 +0000",
       "bread": "2024-12-15 01:35:35 +0000",
       "cookie": "2024-12-15 01:54:28 +0000"
@@ -2785,6 +2810,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-12-15 05:29:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-12-14 23:07:25 +0000"
@@ -2800,6 +2831,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-12-15 02:40:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pickaxe": "2024-12-15 05:39:17 +0000"
     },
     "done": true
   },
@@ -2944,6 +2981,12 @@
   "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2024-12-15 00:14:59 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/iron_nugget": {
+    "criteria": {
+      "has_copper_block": "2024-12-15 05:39:13 +0000"
     },
     "done": true
   },
@@ -3094,6 +3137,12 @@
   "travelersbackpack:recipes/travelersbackpack/iron": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 23:07:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-15 05:39:13 +0000"
     },
     "done": true
   },
