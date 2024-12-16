@@ -4466,3 +4466,29 @@
 [16Dec2024 01:48:18.214] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6d51a446
 [16Dec2024 01:48:18.219] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Camilacapita[/127.233.156.68:52665] logged in with entity id 255316 at (-519.923912285817, 72.8500000178814, -1390.0504404608116)
 [16Dec2024 01:48:18.222] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita joined the game
+[16Dec2024 01:49:10.369] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> -520
+[16Dec2024 01:49:21.567] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> 72
+[16Dec2024 01:49:31.586] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> -1350
+[16Dec2024 01:49:37.122] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Camilacapita to -519.500000, 72.000000, -1349.500000]
+[16Dec2024 01:49:45.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> me equivoque xd
+[16Dec2024 01:49:53.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Camilacapita suffocated in a wall
+[16Dec2024 01:50:05.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> -1391
+[16Dec2024 01:50:10.631] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Camilacapita to -519.500000, 72.000000, -1390.500000]
+[16Dec2024 01:51:38.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> eso si se rompe facil
+[16Dec2024 01:51:50.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> va ala mitad
+[16Dec2024 01:53:22.071] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.injury
+[16Dec2024 01:53:22.082] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Camilacapita with unique ID travelersbackpack.diamond_16.12.2024-01.53.22.dat
+[16Dec2024 01:53:22.082] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -482 Y: 71.8500000178814 Z: -1415
+[16Dec2024 01:53:22.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: michilin (vehicle of Camilacapita) moved wrongly! 0.4336644319553222
+[16Dec2024 01:53:32.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> q mrd me pego
+[16Dec2024 01:53:48.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> -482 71 -1415
+[16Dec2024 01:53:50.161] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> xd
+[16Dec2024 01:54:03.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [EroDragonEx: Teleported Camilacapita to -481.500000, 71.000000, -1414.500000]
+[16Dec2024 01:54:32.021] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: michilin (vehicle of Camilacapita) moved wrongly! 0.32899646030750773
+[16Dec2024 01:54:32.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: michilin (vehicle of Camilacapita) moved wrongly! 0.7717631098998936
+[16Dec2024 01:54:32.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: michilin (vehicle of Camilacapita) moved wrongly! 1.2184186094798406
+[16Dec2024 01:54:32.166] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: michilin (vehicle of Camilacapita) moved wrongly! 1.667049644512872
+[16Dec2024 01:54:49.119] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> ahi una arma que hace de daño 40 algo
+[16Dec2024 01:55:43.919] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> tiene sentidpo
+[16Dec2024 01:56:54.022] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> yo tengo ese hilo xd
+[16Dec2024 01:57:12.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Camilacapita> el hilo que pide esa katana
